@@ -1,0 +1,38 @@
+{
+  "Langchain": {
+    "faithfulness": 0.9388473023889693,
+    "answer_relevancy": 0.9387556000573795,
+    "context_precision": 0.8958333332437499,
+    "context_recall": 0.869212962962963
+  },
+  "LLamaIndex": {
+    "faithfulness": 0.9323522927689594,
+    "answer_relevancy": 0.9177939655795578,
+    "context_precision": 0.8061342592024595,
+    "context_recall": 0.8483796296296297
+  },
+  "Haystack": {
+    "faithfulness": 0.9016184914622415,
+    "answer_relevancy": 0.9367186717942685,
+    "context_precision": 0.8136574073494791,
+    "context_recall": 0.8483796296296297
+  },
+  "Dspy": {
+    "faithfulness": 0.9094742063492064,
+    "answer_relevancy": 0.9122726076515689,
+    "context_precision": 0.8072916666074943,
+    "context_recall": 0.8483796296296297
+  },
+  "CrewAI": {
+    "faithfulness": 0.8846597260329655,
+    "answer_relevancy": 0.8793675073333325,
+    "context_precision": 0.84027777769375,
+    "context_recall": 0.8159722222222222
+  },
+  "Basic_RAG": {
+    "faithfulness": 0.9215851471059805,
+    "answer_relevancy": 0.9235370024584749,
+    "context_precision": 0.7832947530350794,
+    "context_recall": 0.9027777777777778
+  }
+}
