@@ -1,0 +1,866 @@
+[
+  {
+    "question": "Bis wann soll Deutschland klimaneutral sein?",
+    "answer": "Die SPD strebt an, Deutschland bis spätestens 2045 klimaneutral zu machen und den Strom bis 2040 vollständig aus erneuerbaren Energien zu beziehen. Dies erfordert einen entschlossenen Ausbau der erneuerbaren Energien und die Nutzung von Wasserstoff in großindustriellem Maßstab.",
+    "contexts": [],
+    "ground_truths": "Darum haben wir uns zum Ziel gesetzt, in Deutschland bis spätestens 2045 komplett klimaneutral zu sein."
+  },
+  {
+    "question": "Wie hoch soll das Minderungsziel für 2030 sein?",
+    "answer": "Das Minderungsziel für 2030 im Wahlprogramm beträgt 65 %.",
+    "contexts": [],
+    "ground_truths": "Dementsprechend werden wir im Einklang mit den europäischen Klimazielen unser Minderungsziel für 2030 deutlich (auf 65 %) anheben."
+  },
+  {
+    "question": "Wie hoch soll das Minderungsziel für 2040 sein?",
+    "answer": "Das Minderungsziel für 2040 im Wahlprogramm beträgt 88 %.",
+    "contexts": [],
+    "ground_truths": "Auch für 2040 werden wir ein Minderungsziel festschreiben (88 %)."
+  },
+  {
+    "question": "Bis wann soll Deutschland vollständig Strom aus erneuerbaren Energien beziehen?",
+    "answer": "Das Ziel des Wahlprogramms ist es, bis 2040 den gesamten Strombedarf Deutschlands aus erneuerbaren Energien zu decken.",
+    "contexts": [],
+    "ground_truths": "Wir werden dafür sorgen, dass wir unseren Strom spätestens bis zum Jahr 2040 vollständig aus erneuerbaren Energien beziehen."
+  },
+  {
+    "question": "Wie sollen Bürger*innen und Gemeinden in die Energiewende einbezogen werden?",
+    "answer": "Bürger*innen und Gemeinden sollen durch Maßnahmen wie Mieterstrom, kommunale Beteiligungsmodelle und nachhaltige Stromanleihen in die Energiewende einbezogen werden. Es wird angestrebt, auf jedem geeigneten Dach eine Solaranlage zu installieren und innovative Formen der erneuerbaren Stromerzeugung zu fördern. Der Ausbau der erneuerbaren Energien und die Beteiligung der Bürger*innen vor Ort sind zentrale Elemente der Klimaschutz- und Energiepolitik.",
+    "contexts": [],
+    "ground_truths": "Damit die Energiewende vor Ort zur Win-Win-Situation für alle wird, laden wir Bürger*innen und Gemeinden zum Mitmachen ein, indem wir Mieterstrom und gemeinschaftliche Eigenversorgung stärken, kommunale Beteiligungsmodelle ausweiten und nachhaltige Stromanleihen auflegen."
+  },
+  {
+    "question": "Welche Unterstützung wird den vom Ausstieg betroffenen Bergbauregionen zugesichert?",
+    "answer": "Die Unterstützung für Bergbauregionen im Wahlprogramm umfasst Strukturhilfen für den Aufbau neuer Wertschöpfung und zukunftsfähiger Arbeitsplätze, die Wiedernutzbarmachung und Nachsorge bergbaulicher Flächen sowie die Förderung erneuerbarer Energien und Energieeffizienz.",
+    "contexts": [],
+    "ground_truths": "Es gilt, was wir beschlossen haben: Strukturhilfen für die vom Ausstieg betroffenen Bergbauregionen, aber auch darüber hinaus. Die verlässliche Unterstützung beim Aufbau neuer Wertschöpfung und zukunftsfähiger Arbeitsplätze hat oberste Priorität - ebenso die Wiedernutzbarmachung und Nachsorge bergbaulicher Flächen."
+  },
+  {
+    "question": "Wie wird die EEG-Umlage zukünftig finanziert?",
+    "answer": "Die EEG-Umlage wird bis 2025 abgeschafft und aus dem Bundeshaushalt finanziert, um den Einsatz erneuerbarer Energien zu unterstützen und die Stromrechnung zu senken. Die Einnahmen aus der CO2-Bepreisung sollen dazu beitragen, die Energiewende sozial gerecht zu finanzieren. Es werden auch weitere sozial gerechte Ausgleichsmaßnahmen geprüft.",
+    "contexts": [],
+    "ground_truths": "Wir werden die EEG-Umlage in der bestehenden Form bis 2025 abschaffen und aus dem Bundeshaushalt finanzieren."
+  },
+  {
+    "question": "Welches Ziel wird bis 2030 im Bestand-Mietwohnungsbau verfolgt?",
+    "answer": "Das Ziel bis 2030 im Bestand-Mietwohnungsbau ist es, fünf Millionen Häuser mit innovativen Heiz- und Energiesystemen zu versorgen, Vermieter sollen den CO2-Preis tragen und Investitionen in Wärmenetze und Quartierskonzepte staatlich gefördert werden. Zudem wird eine neue Wohnungsgemeinnützigkeit eingeführt, um ein nicht gewinnorientiertes Segment auf dem Wohnungsmarkt zu fördern.",
+    "contexts": [],
+    "ground_truths": "Bis 2030 sollen fünf Millionen Häuser über innovative Heiz- und Energiesysteme (z.B. Wärmepumpen) versorgt werden."
+  },
+  {
+    "question": "Wie wird der Umstieg auf klimaschonende Produktionsprozesse unterstützt?",
+    "answer": "Der Umstieg auf klimaschonende Produktionsprozesse wird durch direkte Investitionsförderung staatlich unterstützt und klima- und umweltschädliche Subventionen abgebaut. Die öffentliche Hand wird bis 2030 schrittweise klimaneutrale Grundmaterialien für Bauten beschaffen. Deutschland soll bis 2030 zum Leitmarkt für Wasserstofftechnologien werden.",
+    "contexts": [],
+    "ground_truths": "Der Umstieg auf klimaschonende Produktionsprozesse wird durch direkte Investitionsförderung staatlich unterstützt und die derzeitigen höheren Kosten von klimaschonenden Technologien werden ausgeglichen."
+  },
+  {
+    "question": "Wie sollen Bürger*innen schnell, zuverlässig und klimafreundlich von A nach B gelangen können?",
+    "answer": "Die SPD plant, bis 2030 das modernste und klimafreundlichste Mobilitätssystem Europas aufzubauen, mit einem Fokus auf öffentlichem Verkehr und Schienenverkehr. Sie streben eine Mobilitätsgarantie an, um allen Bürgern einen wohnortnahen Anschluss an den öffentlichen Verkehr zu ermöglichen. Zudem wollen sie die Einrichtung von barrierefreien Mobilitätsstationen fördern und den Schienenverkehr ausbauen.",
+    "contexts": [],
+    "ground_truths": "Mobilität wird neu gedacht: nachhaltig, bezahlbar, barrierefrei und verlässlich, mit einem Fokus auf den Ausbau von Bus, Bahn und Radverkehr sowie einer Reduktion des Schadstoffausstoßes von Autos auf null."
+  },
+  {
+    "question": "Wie soll die Mobilitätsgarantie für Bürger*innen in Stadt und Land umgesetzt werden?",
+    "answer": "Die Mobilitätsgarantie im Wahlprogramm sieht vor, dass jeder Bürger Zugang zum öffentlichen Verkehr haben soll, unterstützt durch Digitalisierung und neue Mobilitätsdienstleistungen. Ein Mobilitätsplan 2030 soll den öffentlichen Personennahverkehr und den Schienenverkehr verbessern. Es wird angestrebt, bis 2030 das modernste und klimafreundlichste Mobilitätssystem Europas aufzubauen.",
+    "contexts": [],
+    "ground_truths": "Jede*r Bürger*in soll einen wohnortnahen Anschluss an den öffentlichen Verkehr haben, unterstützt durch neue Mobilitätsdienstleistungen und digitale Plattformen."
+  },
+  {
+    "question": "Welche Modelle werden zur Förderung des Nahverkehrs unterstützt?",
+    "answer": "Modelle wie das 365-Euro-Ticket und Modellprojekte für einen ticketfreien Nahverkehr werden im Wahlprogramm unterstützt. Es wird ein Mobilitätsplan 2030 auf den Weg gebracht, um den öffentlichen Personennahverkehr und den Schienenverkehr zu verbessern. Investitionen in das Angebot und die Qualität von Zügen und Bussen werden die Attraktivität des Nahverkehrs steigern.",
+    "contexts": [],
+    "ground_truths": "Modelle wie das 365-Euro-Ticket oder Modellprojekte für einen ticketfreien Nahverkehr werden unterstützt."
+  },
+  {
+    "question": "Welches Ziel wird für elektrische PKW bis 2030 gesetzt?",
+    "answer": "Das Ziel für elektrische PKW bis 2030 im Wahlprogramm ist, dass mindestens 15 Millionen PKW in Deutschland voll elektrisch fahren sollen. Es wird auch die Wasserstoff-Brennstoffzelle im Schwerlastverkehr eine wichtige Rolle spielen, wobei weitere Forschung unterstützt wird.",
+    "contexts": [],
+    "ground_truths": "Bis 2030 sollen mindestens 15 Millionen PKW in Deutschland voll elektrisch fahren."
+  },
+  {
+    "question": "Welche Rolle wird Deutschland in der Batteriezellenfertigung und im Recycling gebrauchter Batterien spielen?",
+    "answer": "Die SPD plant, Deutschland zu einem Zentrum der Batteriezellenfertigung und des Recyclings gebrauchter Batterien zu machen, um die Elektrifizierung des Verkehrs voranzutreiben. Sie unterstützen auch die Wasserstoff-Brennstoffzelle im Schwerlastverkehr.",
+    "contexts": [],
+    "ground_truths": "Deutschland soll zu einem Zentrum der Batteriezellenfertigung und des Recyclings gebrauchter Batterien gemacht werden."
+  },
+  {
+    "question": "Soll auf allen Autobahnen ein generelles Tempolimit gelten?",
+    "answer": "Die SPD plant, ein generelles Tempolimit von 130 km/h auf Bundesautobahnen einzuführen, um die Umwelt zu schützen und die Unfallzahlen zu senken.",
+    "contexts": [],
+    "ground_truths": "Wir werden ein Tempolimit von 130 km/h auf Bundesautobahnen einführen."
+  },
+  {
+    "question": "Was ist das Ziel für Deutschlands digitale Infrastruktur bis 2030?",
+    "answer": "Das Ziel für Deutschlands digitale Infrastruktur bis 2030 ist, eine digitale Infrastruktur auf Weltniveau zu schaffen, eine vollständig digitalisierte Verwaltung und ein Bildungssystem anzubieten, das auf das Leben in einer digitalen Welt vorbereitet. Die Selbstbestimmung und digitale Mündigkeit der Bürger*innen sollen gefördert werden, um allen von der Digitalisierung profitieren zu lassen. Es wird angestrebt, allen Haushalten und Unternehmen bis 2030 eine Bandbreite von mindestens einem Gigabit pro Sekunde zu garantieren und den Zugang zu digitalen Verwaltungsdienstleistungen zu erleichtern.",
+    "contexts": [],
+    "ground_truths": "Deutschland soll 2030 über eine digitale Infrastruktur auf Weltniveau verfügen, eine vollständig digitalisierte Verwaltung und ein Bildungssystem, das auf das Leben in einer digitalen Welt vorbereitet."
+  },
+  {
+    "question": "Wie wird der schnelle Internetzugang in Deutschland bis 2030 sichergestellt?",
+    "answer": "Die SPD plant, bis 2030 allen Haushalten und Unternehmen einen Internetzugang mit einer Bandbreite von mindestens einem Gigabit pro Sekunde zu garantieren. Dies soll durch gesetzlich festgelegte Ausbau- und Versorgungsverpflichtungen sowie Zwischenziele erreicht werden. Die Netzbetreiber sind ebenfalls in der Verantwortung, dieses Ziel zu unterstützen.",
+    "contexts": [],
+    "ground_truths": "Deutschland soll zur 'Gigabit-Gesellschaft' werden, indem die Versorgung aller Haushalte und Unternehmen mit einer Bandbreite von mindestens einem Gigabit pro Sekunde durch gesetzlich festgelegte Ausbau- und Versorgungsverpflichtungen und entsprechende Zwischenziele garantiert wird."
+  },
+  {
+    "question": "Wie soll der Zugang zu digitalen Verwaltungsdienstleistungen verbessert werden?",
+    "answer": "Die Verbesserung des Zugangs zu digitalen Verwaltungsdienstleistungen im Wahlprogramm umfasst die Bereitstellung digitaler Dienste durch Bund, Länder und Kommunen, die automatische oder einfache Antragsverfahren ermöglichen, die Kontrolle über persönliche Daten gewährleisten und diskriminierungsfreien Zugang zu öffentlichen Informationen sicherstellen.",
+    "contexts": [],
+    "ground_truths": "Der Zugang soll verbessert werden, indem Bund, Länder und Kommunen zur Bereitstellung digitaler Verwaltungsdienstleistungen verpflichtet werden und diese Leistungen datenschutzkonform mit einer digitalen Identität nutzbar sind."
+  },
+  {
+    "question": "Welche Maßnahmen werden ergriffen, um den Zugang zum Netz für Bürger*innen mit geringem Einkommen, Schüler*innen und Studierende zu ermöglichen?",
+    "answer": "Die SPD plant einen Sozialtarif für den Netzzugang für Bürger*innen mit geringem Einkommen, Schüler*innen und Studierende zu schaffen. Zudem sollen alle Schulen mit digitalen Endgeräten und Internetzugang ausgestattet werden. Die Förderung der Medienkompetenz von Kindern und Jugendlichen ist ein zentrales Ziel.",
+    "contexts": [],
+    "ground_truths": "Für Bürger*innen mit geringem Einkommen, für Schüler*innen und Studierende werden wir darum einen Sozialtarif für den Netzzugang schaffen."
+  },
+  {
+    "question": "Wie sollen globale Plattformkonzerne reguliert werden?",
+    "answer": "Die Regulierung globaler Plattformkonzerne im Wahlprogramm sieht eine starke und präzise Regulierung vor, um den Wettbewerb zu sichern und alternative Angebote zu fördern. Es wird angestrebt, mehr Angebote mit hoher Datensouveränität zu schaffen und die Netzneutralität zu bewahren. Zudem wird die gesetzliche Vorgabe der Interoperabilität zwischen verschiedenen Diensten unterstützt.",
+    "contexts": [],
+    "ground_truths": "Wir werden deshalb gemeinsam mit den EU-Mitgliedsstaaten eine starke und präzise Regulierung schaffen, den Wettbewerb sichern und alternative Angebote fördern."
+  },
+  {
+    "question": "Wie soll das Wettbewerbs- und Kartellrecht weiterentwickelt werden?",
+    "answer": "Das Wahlprogramm setzt sich für ein präventives und proaktives Wettbewerbs- und Kartellrecht ein, um übermächtige Plattformen zu kontrollieren und die Netzneutralität zu bewahren. Es wird angestrebt, die digitale Souveränität der Bürger*innen zu schützen und alternative Angebote zu fördern, um Monopolisten entgegenzuwirken. Internationale Steuerkooperation und ein globales Register sollen die Besteuerung von Unternehmen transparenter gestalten und Steueroasen bekämpfen.",
+    "contexts": [],
+    "ground_truths": "Wir wollen Entwicklungen am Markt voraus sein und ein präventives und proaktives Wettbewerbs- und Kartellrecht schaffen. In das Kartellrecht werden wir verstärkt vorbeugende Kontrollen integrieren."
+  },
+  {
+    "question": "Wie soll das Wettbewerbs- und Kartellrecht weiterentwickelt werden?",
+    "answer": "Das Wahlprogramm sieht vor, das Wettbewerbs- und Kartellrecht weiterzuentwickeln, um übermächtige Plattformen zu kontrollieren, die Netzneutralität zu bewahren, die digitale Souveränität der Bürger*innen zu schützen und Monopolisten entgegenzuwirken. Es strebt auch an, die Besteuerung von Unternehmen transparenter zu gestalten und Steueroasen zu bekämpfen.",
+    "contexts": [],
+    "ground_truths": "Wir wollen Entwicklungen am Markt voraus sein und ein präventives und proaktives Wettbewerbs- und Kartellrecht schaffen. In das Kartellrecht werden wir verstärkt vorbeugende Kontrollen integrieren."
+  },
+  {
+    "question": "Wie soll die Interoperabilität zwischen verschiedenen digitalen Diensten gewährleistet werden?",
+    "answer": "Die Interoperabilität zwischen verschiedenen digitalen Diensten und Plattformen wird gesetzlich vorgeschrieben, um einen einfachen und freien Zugang zu ermöglichen. Es wird angestrebt, dass öffentlich finanzierte Software transparent als Open-Source entwickelt wird. Europa soll eine selbstbestimmte Entwicklung und Herstellung digitaler Komponenten vorantreiben, um die Netzwerksicherheit zu gewährleisten.",
+    "contexts": [],
+    "ground_truths": "Es muss möglich sein, zwischen verschiedenen Messenger-Diensten, sozialen Netzwerken und digitalen Diensten und Plattformen zu kommunizieren oder zu wechseln. Diese Interoperabilität werden wir gesetzlich vorschreiben."
+  },
+  {
+    "question": "Welche Bereiche der Digitalwirtschaft sollen gezielt unterstützt werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine digitale Infrastruktur auf Weltniveau bis 2030 ein, strebt eine Gigabit-Gesellschaft an, fordert einfachen digitalen Zugang zu Verwaltungsdienstleistungen und digitale Bildung für alle Generationen. Die Partei will die digitale Souveränität der Bürger*innen schützen und alternative Angebote fördern, um Monopolisten entgegenzuwirken.",
+    "contexts": [],
+    "ground_truths": "Wir setzen uns für eine gezielte und koordinierte Unterstützung der deutschen und europäischen Digitalwirtschaft auf allen Technologie-Ebenen und entlang der gesamten Wertschöpfungsketten ein: von der Halbleiter-Fertigung und der Quantentechnologie über die Cloud und Künstliche Intelligenz und Edge-Computing bis zur Cyber-Sicherheit, sicherer und vertrauenswürdiger Hard- und Software sowie Netzwerktechnik und datenbasierten Geschäftsmodellen."
+  },
+  {
+    "question": "Wie will man gegen Straftaten im Internet entgegenwirken?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für ein konsequentes Vorgehen gegen Straftaten im Internet ein, einschließlich Hasskriminalität und Betrug. Sie strebt eine Weiterentwicklung der nationalen Schutzvorschriften und verbindliche Regelungen auf europäischer Ebene an. Zudem unterstützt sie Organisationen, die gegen Hass und Hetze im Netz aktiv sind.",
+    "contexts": [],
+    "ground_truths": "Wir werden die nationalen Schutzvorschriften im Strafgesetzbuch und Netzwerkdurchsetzungsgesetz weiterentwickeln und setzen uns für verbindliche Regelungen auf europäischer Ebene (Digital Service Act) ein."
+  },
+  {
+    "question": "Welches Ziel wird im Bereich Medizin verfolgt?",
+    "answer": "Die Förderung von Innovationen und neuen Methoden in der Medizin, die Zugänglichkeit von personalisierter Medizin zu erschwinglichen Preisen für alle, sowie die Einführung einer Bürgerversicherung für einen gleich guten Zugang zur medizinischen Versorgung sind Ziele im Bereich Medizin im Wahlprogramm.",
+    "contexts": [],
+    "ground_truths": "Eines unserer Ziele ist die Förderung der Forschung zur personalisierten Medizin. Diese muss zu erschwinglichen Preisen für alle zugänglich sein."
+  },
+  {
+    "question": "Wie soll sich die Gesundheitsforschung, Ausbildung und Versorgungspraxis ändern?",
+    "answer": "Die Gesundheitsforschung, Ausbildung und Versorgungspraxis im Wahlprogramm sollen die besonderen Bedürfnisse von Frauen, Männern und Kindern berücksichtigen, einen gleichberechtigten Zugang zur medizinischen Versorgung durch eine Bürgerversicherung sicherstellen und Innovationen sowie personalisierte Medizin fördern.",
+    "contexts": [],
+    "ground_truths": "Doch die Gesundheitsforschung, Ausbildung und Versorgungspraxis orientieren sich zumeist an Daten von weißen, männlichen erwachsenen Probanden - das werden wir ändern."
+  },
+  {
+    "question": "Welche Programme in den Bereichen Prävention und Krankheitsfrüherkennung sollen gefördert werden?",
+    "answer": "Die Förderung von Programmen zur Prävention und Krankheitsfrüherkennung, die die Bedürfnisse verschiedener Altersgruppen und Geschlechter berücksichtigen, ist ein Ziel. Eine Bürgerversicherung soll einen gleichberechtigten Zugang zur Gesundheitsversorgung für alle gewährleisten. Deutschland muss seine Innovationskraft im Gesundheitssektor wieder stärken, um neue Therapieoptionen zu finden.",
+    "contexts": [],
+    "ground_truths": "Wir werden darüber hinaus Programme in den Bereichen Prävention und Krankheitsfrüherkennung fördern, die die Besonderheiten verschiedener Altersgruppen und Geschlechter berücksichtigen."
+  },
+  {
+    "question": "Welche Priorität wird dem Schutz der Patientendaten eingeräumt?",
+    "answer": "Die SPD legt höchsten Wert auf den Schutz der Patientendaten und strebt an, dass Hersteller von Softwareprodukten und technischen Geräten Sicherheitsstandards einhalten. Zudem plant die Partei die Einführung einer Bürgerversicherung, um einen gleichberechtigten Zugang zur medizinischen Versorgung für alle sicherzustellen.",
+    "contexts": [],
+    "ground_truths": "Wir wollen zudem dem Schutz der Patientendaten höchste Priorität einräumen."
+  },
+  {
+    "question": "Was ist das Ziel der Bürgerversicherung?",
+    "answer": "Die Bürgerversicherung im Wahlprogramm zielt darauf ab, einen gleich guten Zugang zur medizinischen Versorgung für alle zu gewährleisten und eine solidarische Finanzierung sicherzustellen. Gute Arbeitsbedingungen und vernünftige Löhne in der Pflege sind dafür eine wichtige Grundlage. Eine ergänzende private Altersvorsorge ist kein Ersatz für die gesetzliche Rente.",
+    "contexts": [],
+    "ground_truths": "Wir werden eine Bürgerversicherung einführen. Das bedeutet: Gleich guter Zugang zur medizinischen Versorgung für alle, eine solidarische Finanzierung und hohe Qualität der Leistungen."
+  },
+  {
+    "question": "Wie hoch sollen die öffentlichen Investitionen des Bundes pro Jahr sein?",
+    "answer": "Public investments are essential for a sustainable European future. The focus is on developing a common investment policy in Europe, rather than returning to past austerity measures. The goal is to create a fiscally strong and socially united EU through sustainable public investments.",
+    "contexts": [""],
+    "ground_truths": "Wir werden das, in dieser Legislaturperiode von uns durchgesetzte, hohe Investitionsniveau des Bundes mit mindestens 50 Milliarden Euro pro Jahr weiter fortsetzen."
+  },
+  {
+    "question": "Welche Schritte sind geplant, um hoch verschuldete Kommunen zu entlasten?",
+    "answer": "Die Unterstützung hoch verschuldeter Kommunen wird durch die Übernahme hoher Altschulden und die Stärkung der Investitionskraft der Kommunen gewährleistet. Zusätzlich sollen strukturschwache Regionen durch die Gemeinschaftsaufgabe Verbesserung der regionalen Wirtschaftsstruktur unterstützt werden. Maßnahmen zur Entlastung von Kommunen von Sozialausgaben wurden bereits im Zuge der Corona-Pandemie ergriffen.",
+    "contexts": [],
+    "ground_truths": "Ein nötiger Schritt ist, den besonders hoch verschuldeten Kommunen einmalig hohe Altschulden abzunehmen."
+  },
+  {
+    "question": "Auf welche Kriterien sollten die Vergabekriterien für die öffentliche Beschaffung ausgerichtet werden?",
+    "answer": "Die Vergabekriterien für öffentliche Beschaffung sollten stärker auf Innovation, Tarifbindung, Geschlechtergerechtigkeit und klimafreundliche Nachhaltigkeit ausgerichtet werden. Es ist wichtig, dass Produktentwicklungen sich auf den Staat als Nachfrager verlassen können und Start-ups gefördert werden. Die Kreditanstalt für Wiederaufbau (KfW) spielt eine wichtige Rolle bei der Lenkung von Mitteln in zukunftsweisende Branchen.",
+    "contexts": [],
+    "ground_truths": "Hierfür sollten die Vergabekriterien stärker auf Innovation, Tarifbindung, Geschlechtergerechtigkeit und klimafreundliche Nachhaltigkeit ausgerichtet werden."
+  },
+  {
+    "question": "Wie sollen mehr Unternehmensgründungen angeregt werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für die Förderung von Unternehmensgründungen ein, insbesondere von Frauen und in ländlichen Gebieten. Sie plant, die rechtlichen Rahmenbedingungen für gemeinwohlorientierte Unternehmen zu verbessern und den Zugang zu Kapital zu erleichtern. Zudem sollen Transformationszentren als Werkstätten des Wandels etabliert werden.",
+    "contexts": [],
+    "ground_truths": "Um mehr Unternehmensgründungen anzuregen und mittelständischen Unternehmen eine sinnvolle Nachfolgeplanung zu ermöglichen, setzen wir auf drei Kernpunkte: Organisatorische Unterstützung wie One-Stop-Agenturen für Gründer*innen, erleichterter Zugang zu Kapital durch Projektförderung sowie öffentliche Fonds für Wagniskapital und eine “Kultur der zweiten Chance”, auch im Insolvenzrecht."
+  },
+  {
+    "question": "Welche Wirtschaftsbereiche sollen nach der Pandemie weiterhin Unterstützung erhalten?",
+    "answer": "Die unterstützten Wirtschaftsbereiche nach der Pandemie sollen umweltfreundliche Technologien, erneuerbare Energien, gemeinwohlorientierte Unternehmen, Kultur- und Kreativwirtschaft, Filmindustrie, Games, eSports, Kunst und Kultur sowie strukturschwache Regionen sein.",
+    "contexts": [],
+    "ground_truths": "Solidarität werden wir weiterhin den Wirtschaftsbereichen zukommen lassen, die in der Corona-Pandemie zugunsten der Gesundheit aller besondere Einbußen hinnehmen mussten. Das gilt für die Kulturwirtschaft, ebenso für die Tourismuswirtschaft, inklusive des Hotel- und Gaststättenwesens."
+  },
+  {
+    "question": "Welche Zukunftstechnologien sollen in Deutschland gefördert werden?",
+    "answer": "Die SPD fördert Zukunftstechnologien wie Quantentechnik, Künstliche Intelligenz und Wasserstoff, um innovativ zu bleiben und gesellschaftliche Herausforderungen zu meistern. Sie unterstützt auch die Digitalisierung an Universitäten und Fachhochschulen, um Innovationen voranzutreiben.",
+    "contexts": [],
+    "ground_truths": "Dazu fördern wir Zukunftstechnologien wie zum Beispiel Quantentechnik, Künstliche Intelligenz, Alternativverfahren und Wasserstoff an vielen Orten im Land."
+  },
+  {
+    "question": "Wie soll der Ausstieg aus Tierversuchen gelingen?",
+    "answer": "Die Partei plant den Ausstieg aus Tierversuchen durch die Einführung eines staatlichen Tierwohllabels und die Begrenzung des Transports von lebenden Tieren auf acht Stunden gemäß ihres Wahlprogramms.",
+    "contexts": [],
+    "ground_truths": "Für den perspektivischen Ausstieg aus den Tierversuchen werden wir eine Gesamtplanung aufsetzen und die Entwicklung von tierversuchsfreien Verfahren stärker fördern."
+  },
+  {
+    "question": "Wie sollen die Arbeitsbedingungen in der Wissenschaft verbessert werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für verlässliche Karrierewege und weniger Befristungen in der Wissenschaft ein, um gute Arbeitsbedingungen zu schaffen. Sie streben an, den Anteil der Ausgaben für Forschung und Entwicklung auf mindestens 3,5 Prozent des BIP zu steigern.",
+    "contexts": [],
+    "ground_truths": "Gute Wissenschaft braucht gute Arbeitsbedingungen. Wir werden uns für verlässliche Karrierewege und weniger Befristungen in der Wissenschaft einsetzen."
+  },
+  {
+    "question": "Wie soll die Steuervermeidung großer Unternehmen eingedämmt werden?",
+    "answer": "Die Partei plant, Steuervermeidung großer Unternehmen durch eine effektive Mindestbesteuerung und eine Finanztransaktionssteuer einzudämmen. Sie unterstützt internationale Verhandlungen zur Einführung einer globalen Mindestbesteuerung für Unternehmen. Die öffentliche Transparenz wird genutzt, um Unternehmen zur Verantwortung zu ziehen und Steuervermeidung zu bekämpfen.",
+    "contexts": [],
+    "ground_truths": "Wir werden Steuervermeidung mit einem öffentlichen Reporting großer, international agierender Unternehmen eindämmen (Public Country-by-Country-Reporting)."
+  },
+  {
+    "question": "Wie soll die Besteuerung von Einkommen gerechter gestaltet werden?",
+    "answer": "Die Besteuerung von Einkommen im Wahlprogramm wird gerechter gestaltet, um mittlere Einkommen zu entlasten und die oberen fünf Prozent stärker zu belasten. Es wird eine Einkommensteuerreform durchgeführt, um die Finanzierung öffentlicher Aufgaben sicherzustellen. Der Solidaritätszuschlag bleibt für Spitzenverdiener bestehen.",
+    "contexts": [],
+    "ground_truths": "Wir werden eine Einkommensteuerreform vornehmen, die kleine und mittlere Einkommen besserstellt, die Kaufkraft stärkt und dafür im Gegenzug die oberen fünf Prozent stärker für die Finanzierung der wichtigen öffentlichen Aufgaben heranzieht."
+  },
+  {
+    "question": "Wie soll sich die Einkommensteuer für Spitzenverdiener*innen ändern?",
+    "answer": "Die SPD plant, die Einkommensteuer für Spitzenverdiener*innen durch einen Aufschlag von drei Prozentpunkten beizubehalten, der für Verheiratete ab einem zu versteuernden Einkommen von 500.000 Euro und für Ledige ab 250.000 Euro im Jahr gilt. Sie streben auch an, die Vermögensteuer wieder einzuführen, um die Finanzkraft der Länder zu stärken.",
+    "contexts": [],
+    "ground_truths": "Für diejenigen, die besonders viel verdienen, halten wir zudem an dem Aufschlag von drei Prozentpunkten zur Einkommensteuer fest. Er soll künftig bei Verheirateten für den zu versteuernden Einkommensanteil oberhalb von 500.000 Euro im Jahr, bei Ledigen ab 250.000 Euro im Jahr gelten."
+  },
+  {
+    "question": "Wie soll das Steuerrecht geändert werden?",
+    "answer": "Das Wahlprogramm sieht die Einführung einer Vermögenssteuer, einer Finanztransaktionssteuer und einer Mindestbesteuerung für große Betriebsvermögen vor. Die steuerliche Abzugsfähigkeit von Managergehältern wird begrenzt und die Vermögensteuer soll wieder eingeführt werden. Steuergerechtigkeit und Bekämpfung von Steuerhinterziehung sind ebenfalls zentrale Punkte des Programms.",
+    "contexts": [],
+    "ground_truths": "Das geltende Steuerrecht befördert die klassische Arbeitsteilung zwischen Männern und Frauen. Das werden wir ändern und das Steuerrecht stärker auf Partnerschaftlichkeit ausrichten sowie die Steuerlast bei unterschiedlich hohen Einkommen zwischen den Eheleuten gerecht verteilen."
+  },
+  {
+    "question": "Soll auf hohe Vermögen wieder eine Steuer erhoben werden?",
+    "answer": "Die SPD plant, die Vermögenssteuer wieder einzuführen und einen maßvollen Steuersatz für sehr hohe Vermögen einzuführen, um die Finanzierung des Gemeinwesens gerechter zu gestalten. Sie werden auch die steuerliche Abzugsfähigkeit von Manager*innengehältern begrenzen und eine einkommensunabhängige Steuerminderung einführen.",
+    "contexts": [],
+    "ground_truths": "Wir wollen die Vermögensteuer wieder in Kraft setzen, auch um die Finanzkraft der Länder für wichtige Zukunftsaufgaben zu verbessern. Wer sehr viel Vermögen hat, muss einen größeren Beitrag zur Finanzierung unseres Gemeinwesens leisten."
+  },
+  {
+    "question": "Wie soll die Erbschaftssteuer reformiert werden?",
+    "answer": "Die Erbschaftssteuer soll im Wahlprogramm reformiert werden, um die Überprivilegierung großer Betriebsvermögen abzuschaffen, eine Mindestbesteuerung einzuführen und eine Vermögensteuer mit einem maßvollen, einheitlichen Steuersatz für sehr hohe Vermögen anzustreben. Es soll sichergestellt werden, dass die Vermögenssteuer keine Arbeitsplätze gefährdet und die Grundlage von Betrieben verschont bleibt.",
+    "contexts": [],
+    "ground_truths": "Mit einer effektiven Mindestbesteuerung werden wir die Überprivilegierung großer Betriebsvermögen abschaffen. Auch für vermögenshaltende Familienstiftungen werden wir eine Mindestbesteuerung einführen."
+  },
+  {
+    "question": "Welche zusätzlichen Kompetenzen soll die BaFin erhalten?",
+    "answer": "Die BaFin hat zusätzliche Kontroll-Kompetenzen bei der Prüfung von Jahresabschlüssen erhalten und kann nun hoheitlich prüfen. Außerdem sollen ihre Kompetenzen bei der Geldwäscheaufsicht erweitert werden.",
+    "contexts": [],
+    "ground_truths": "Darüber hinaus setzen wir uns dafür ein, dass die BaFin mehr Kompetenzen bei der Geldwäscheaufsicht auch für große Unternehmen über ihre bisherige Aufsichtszuständigkeit hinaus erhält."
+  },
+  {
+    "question": "Was ist die Position zur Privatisierung von Währungen und privaten digitalen Währungen?",
+    "answer": "Wir lehnen eine Privatisierung von Währungen ab, einschließlich privater digitaler Währungen. Unsere Priorität liegt auf einem stabilen, fairen und demokratischen Handelssystem. Wir werden die Instrumente der Handels- und Investitionspolitik modernisieren, um Nachhaltigkeit und multilaterale Regeln zu fördern.",
+    "contexts": [],
+    "ground_truths": "Wir lehnen eine Privatisierung von Währungen ab. Dies gilt auch für private digitale Währungen, die in ihrem Wert künstlich stabil gehalten werden (Stablecoins)."
+  },
+  {
+    "question": "Wie will die SPD regieren?",
+    "answer": "Die SPD plant, im Falle einer Regierungsbeteiligung, eine Modernisierungsoffensive für den öffentlichen Dienst, eine bessere Zusammenarbeit der Verwaltung, mehr Transparenz, Beteiligung und Demokratie sowie die demokratische Gestaltung des digitalen Wandels.",
+    "contexts": [],
+    "ground_truths": "Wir wollen vorausschauender, wirksamer, agiler und nachhaltiger regieren und dabei mehr Transparenz, mehr Beteiligung, mehr Demokratie wagen."
+  },
+  {
+    "question": "Welche Regeln sollen für die Einkünfte und Unternehmensbeteiligungen von Abgeordneten gelten?",
+    "answer": "Die steuerliche Abzugsfähigkeit von Manager*innengehältern wird auf das 15-fache des Durchschnittseinkommens der Beschäftigten begrenzt. Es wird eine Vermögensteuer mit einem einheitlichen Steuersatz von einem Prozent für sehr hohe Vermögen eingeführt. Eine effektive Mindestbesteuerung wird für große Betriebsvermögen und vermögenshaltende Familienstiftungen eingeführt.",
+    "contexts": [],
+    "ground_truths": "Wir werden dafür sorgen, dass Abgeordnete zukünftige ihre Einkommen auf Euro und Cent angeben müssen. Ebenso werden wir für Abgeordnete die Anzeigepflicht für Unternehmensbeteiligung und Aktienoptionen verschärfen und klar regeln, wann ein Interessenkonflikt zwischen parlamentarischer und wirtschaftlicher Arbeit vorliegt und wie er zu lösen ist."
+  },
+  {
+    "question": "Welche Bedingung soll für die Vergabe öffentlicher Aufträge eingeführt werden?",
+    "answer": "Die Bedingung, die für die Vergabe öffentlicher Aufträge eingeführt werden soll, beinhaltet eine stärkere Ausrichtung auf Innovation, Tarifbindung, Geschlechtergerechtigkeit und klimafreundliche Nachhaltigkeit im Wahlprogramm. Start-ups sollen gefördert werden, um Innovationen voranzutreiben, und die KfW soll zu einer modernen Innovations- und Investitionsagentur weiterentwickelt werden.",
+    "contexts": [],
+    "ground_truths": "Ein öffentlicher Auftrag darf nur an Unternehmen vergeben werden, die nach Tarif bezahlen. Dazu schaffen wir ein Bundestariftreuegesetz."
+  },
+  {
+    "question": "Wie soll der gesetzliche Mindestlohn geändert werden?",
+    "answer": "Die SPD plant, den gesetzlichen Mindestlohn auf mindestens zwölf Euro zu erhöhen und die Spielräume für zukünftige Erhöhungen auszuweiten. Sie streben auch an, Leiharbeiter*innen ab dem ersten Tag den gleichen Lohn wie Festangestellte zu zahlen. Ein öffentlicher Auftrag soll nur an Unternehmen vergeben werden, die nach Tarif bezahlen.",
+    "contexts": [],
+    "ground_truths": "Wir werden den gesetzlichen Mindestlohn zunächst auf mindestens zwölf Euro erhöhen und die Spielräume der Mindestlohnkommission für künftige Erhöhungen ausweiten."
+  },
+  {
+    "question": "Welche Maßnahmen sind geplant bezüglich der Befristung von Arbeitsverhältnissen?",
+    "answer": "Die Befristung von Arbeitsverhältnissen ohne Sachgrund wird abgeschafft, Leiharbeiter*innen erhalten ab dem ersten Tag den gleichen Lohn wie Festangestellte, ein Rechtsanspruch auf mobile Arbeit wird eingeführt und ein Mitbestimmungsrecht zur Einführung und Ausgestaltung mobiler Arbeit geschaffen.",
+    "contexts": [],
+    "ground_truths": "Die Befristung von Arbeitsverhältnissen ohne einen Sachgrund werden wir abschaffen und die vom Gesetz akzeptierten Gründe für eine Befristung kritisch überprüfen."
+  },
+  {
+    "question": "Wie soll die Gleitzone der Midi-Jobs angepasst werden?",
+    "answer": "Die SPD plant, die Gleitzone der Midi-Jobs auf 1.600 Euro anzuheben, um die Nettoeinkommen von gering Verdienenden zu erhöhen, ohne den Rentenanspruch für Arbeitnehmer*innen zu verringern.",
+    "contexts": [],
+    "ground_truths": "Um die Nettoeinkommen von gering Verdienenden zu erhöhen, heben wir die Gleitzone der Midi-Jobs auf 1.600 Euro an."
+  },
+  {
+    "question": "Welche Maßnahmen sind geplant, um die Arbeitsbedingungen in der Post- und Paketdienstbranche zu verbessern?",
+    "answer": "Die Arbeitsbedingungen in der Post- und Paketdienstbranche sollen durch die soziale und ökologische Ausrichtung der Branche verbessert werden, um ungesicherte Arbeitsverhältnisse durch Scheinselbständigkeit und Subunternehmertum zu bekämpfen.",
+    "contexts": [],
+    "ground_truths": "Wir werden die Branche sozial und ökologisch ausrichten. Eine Zerschlagung der Deutschen Post und eine vollständige Privatisierung werden wir verhindern und unfaire Wettbewerbsvorteile von Digitalkonzernen auch in diesem Bereich beseitigen."
+  },
+  {
+    "question": "Wie soll der Kündigungsschutz für Betriebsrät*innen verändert werden?",
+    "answer": "Es wird ein Rechtsanspruch auf mobile Arbeit eingeführt, mit mindestens 24 Tagen im Jahr für Beschäftigte bei einer Fünf-Tage-Woche. Es sollen klare Regelungen für Arbeits- und Ruhezeiten im Homeoffice gelten. Ein Verbandsklagerecht der Gewerkschaften und ein Beschäftigtendatenschutzgesetz werden eingeführt.",
+    "contexts": [],
+    "ground_truths": "Wir werden den Kündigungsschutz für Betriebsrät*innen ausweiten und eine Behinderung von Betriebsratsarbeit stärker verfolgen."
+  },
+  {
+    "question": "Sollen Unternehmen selbst entscheiden, ob sie ihren Beschäftigten das Arbeiten im Homeoffice erlauben?",
+    "answer": "Ein Rechtsanspruch auf mobile Arbeit wird eingeführt, mit mindestens 24 Tagen im Jahr im Homeoffice. Es wird auf Arbeits- und Ruhezeiten, Erfassung der Arbeitszeit und Nichterreichbarkeitszeiten geachtet. Gewerkschaften sollen digitale Zugangsrechte erhalten und Beschäftigte auf Plattformen sich zusammenschließen können.",
+    "contexts": [],
+    "ground_truths": "Wir werden einen Rechtsanspruch auf mobile Arbeit einführen. Grundsätzlich sollen Beschäftigte bei einer Fünf-Tage-Woche mindestens 24 Tage im Jahr mobil oder im Homeoffice arbeiten können, wenn es die Tätigkeit erlaubt."
+  },
+  {
+    "question": "Wie soll die Arbeitszeit im Homeoffice geregelt werden?",
+    "answer": "Es wird ein Rechtsanspruch auf mobile Arbeit eingeführt, mit mindestens 24 Tagen im Jahr im Homeoffice. Arbeits- und Ruhezeiten müssen eingehalten werden, ebenso wie ein Recht auf Nichterreichbarkeit und gute Unfallversicherung. Es wird ein Mitbestimmungsrecht zur Einführung und Ausgestaltung mobiler Arbeit geschaffen.",
+    "contexts": [],
+    "ground_truths": "Klar ist, dass das nicht in Rundum-die-Uhr-Arbeiten ausarten darf - auch im Homeoffice müssen Arbeits- und Ruhezeiten gelten, die Arbeitszeit muss jeden Tag vollständig erfasst werden und es braucht ein Recht auf Nichterreichbarkeitszeiten, auf technische Ausstattung sowie guten Unfallversicherungsschutz."
+  },
+  {
+    "question": "Soll eine Pflicht zur Altersvorsorge eingeführt werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine stärkere gesetzliche Rente ein und strebt ein Rentenniveau von mindestens 48 Prozent an. Sie lehnt eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab und setzt sich für die Grundrente ein.",
+    "contexts": [],
+    "ground_truths": "Wir werden eine grundsätzliche Pflicht zur Altersvorsorge einführen und Selbständige schrittweise in die gesetzliche Rentenversicherung integrieren."
+  },
+  {
+    "question": "Wie sollen Solo-Selbständige bei unvorhersehbaren Einnahmeausfällen abgesichert werden?",
+    "answer": "Die SPD plant, Solo-Selbständige besser abzusichern, insbesondere bei unvorhersehbaren Einnahmeausfällen, durch ein Sicherungsgeld über die Bundesagentur für Arbeit. Dieses Sicherungsgeld hat Vorrang vor Leistungen der Grundsicherung. Die Absicherung in der Künstlersozialversicherung sowie in der Renten-, Kranken- und Arbeitslosenversicherung soll verbessert werden.",
+    "contexts": [],
+    "ground_truths": "Mit einem Sicherungsgeld schaffen wir einen neuen Weg der solidarischen Absicherung für Selbständige in Notlagen, die über branchen- und saisonübliche Schwankungen hinausgehen, durch die Bundesagentur für Arbeit. Das Sicherungsgeld soll mit Leistungen der Arbeitslosenversicherung vergleichbar sein."
+  },
+  {
+    "question": "Soll es eine Ausbildungsgarantie geben?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine Ausbildungsgarantie ein, um jungen Menschen den Einstieg ins Berufsleben zu erleichtern und die duale Ausbildung zu stärken. Es wird betont, dass Unternehmen mehr Verantwortung für die Schaffung von Ausbildungsplätzen übernehmen sollen.",
+    "contexts": [],
+    "ground_truths": "Wir setzen uns für eine Ausbildungsgarantie ein."
+  },
+  {
+    "question": "Was ist Arbeitslosengeld Q",
+    "answer": "Arbeitslosengeld Q wird eingeführt, um bereits nach drei Monaten ohne neue Erwerbsarbeit zu greifen und den Betroffenen die Möglichkeit zur Qualifizierung zu geben. Die Bundesagentur für Arbeit wird zur Bundesagentur für Arbeit und Qualifizierung umgebaut, um ein hochwertiges Beratungsangebot zu gewährleisten. Es wird ein Recht auf Weiterbildung und beruflichen Neustart in allen Lebensphasen geschaffen.",
+    "contexts": [],
+    "ground_truths": "Wir werden einen Anspruch auf Qualifizierung einführen, der bereits nach drei Monaten ohne neue Erwerbsarbeit greift (Arbeitslosengeld Q)."
+  },
+  {
+    "question": "Wie sollen Bildungszeit und Bildungsteilzeit gefördert werden?",
+    "answer": "Die SPD plant, ein Recht auf Weiterbildung und beruflichen Neustart in allen Lebensphasen zu schaffen, einschließlich der Möglichkeit, mit 40plus einen neuen Beruf zu erlernen. Dies soll durch geförderte Bildungszeit und Bildungsteilzeit ermöglicht werden, um unabhängig vom Betrieb Weiterbildungen oder Umschulungen durchzuführen. Die Kosten für die Weiterbildungsmaßnahmen sollen unterstützt werden, insbesondere für diejenigen, die nicht über ausreichende Mittel verfügen.",
+    "contexts": [],
+    "ground_truths": "Wer Bildungszeit oder Bildungsteilzeit beantragt, erhält ein Recht, sich von seinem Beruf freistellen zu lassen oder die Arbeitszeit zu reduzieren. Die Bildungszeiten werden wir mit einer finanziellen Förderung ausgestalten, die Lohneinbußen während der Weiterbildung oder Umschulung angemessen kompensiert."
+  },
+  {
+    "question": "Wie soll das Bundesausbildungsförderungsgesetz (BAföG) in Zukunft verändert werden?",
+    "answer": "Das Zukunftsprogramm der SPD sieht vor, das BAföG auszuweiten und schrittweise zum Vollzuschuss zurückzukehren, um mehr junge Erwachsene zu erreichen. Außerdem soll das BAföG elternunabhängiger werden und mit dem Aufstiegs-BAföG besser abgestimmt werden. Es wird auch ein Neustart-BAföG für Erwachsene vorgeschlagen.",
+    "contexts": [],
+    "ground_truths": "Das Bundesausbildungsförderungsgesetz (BAföG) soll in Zukunft wieder mehr junge Erwachsene erreichen. Dafür weiten wir die Förderansprüche aus und streben eine schrittweise Rückkehr zum Vollzuschuss an."
+  },
+  {
+    "question": "Sollen Studentinnen und Studenten BAföG unabhängig vom Einkommen ihrer Eltern erhalten?",
+    "answer": "Die SPD plant, das BAföG auszuweiten und schrittweise zum Vollzuschuss zurückzukehren, um mehr junge Erwachsene zu erreichen. Außerdem soll das BAföG elternunabhängiger werden und mit dem neuen Kindergeld kombiniert werden, um die finanzielle Absicherung von Studierenden zu verbessern. Es wird auch ein Neustart-BAföG für Erwachsene eingeführt, um neue berufliche Wege zu ermöglichen.",
+    "contexts": [],
+    "ground_truths": "Junge Menschen in Ausbildung sollen durch direkte, elternunabhängige Auszahlung des neuen Kindergeldes finanziell abgesichert werden - mit einem zusätzlichen, auskömmlichen Fördersatz an BAföG obendrauf."
+  },
+  {
+    "question": "Was ist das Ziel des Neustart-BAföG?",
+    "answer": "Die SPD plant, das BAföG zu reformieren und ein Neustart-BAföG einzuführen, um auch Erwachsenen neue berufliche Wege zu ermöglichen. Es soll ein persönliches Zeitkonto geben, um individuelle Gestaltungsmöglichkeiten entlang des Lebenslaufs zu schaffen. Es wird ein Recht auf Weiterbildung und beruflichen Neustart in allen Lebensphasen angestrebt.",
+    "contexts": [],
+    "ground_truths": "Und wir brauchen ein Neustart-BAföG, das auch im Erwachsenenalter neue berufliche Wege öffnen und angemessen den Lebensunterhalt sichert."
+  },
+  {
+    "question": "Welche Unterstützung gibt es für das Nachholen eines Berufsabschlusses?",
+    "answer": "Das Wahlprogramm sieht eine Unterstützung für das Nachholen eines Berufsabschlusses vor, indem geförderte Bildungszeiten und Bildungsteilzeit ermöglicht werden. Es wird eine finanzielle Förderung angeboten, um Lohneinbußen während der Weiterbildung oder Umschulung auszugleichen. Zudem wird die Arbeitslosenversicherung zu einer solidarischen Arbeitsversicherung weiterentwickelt, um Qualifizierung zu fördern und Arbeitslosigkeit zu vermeiden.",
+    "contexts": [],
+    "ground_truths": "Wir schaffen das Recht auf Förderung beim Nachholen eines Berufsabschlusses und führen einen Weiterbildungs-Bonus ein, der die finanziellen Spielräume spürbar erweitert."
+  },
+  {
+    "question": "Wie soll die Vermögensprüfung im Bürgergeld geregelt werden?",
+    "answer": "Leider konnte ich keine spezifischen Informationen zur Vermögensprüfung im Bürgergeld im Wahlprogramm finden.",
+    "contexts": [""],
+    "ground_truths": "Die guten Erfahrungen aus diesen vorübergehenden Maßnahmen haben uns darin bestätigt, dafür zu sorgen, dass auch in Zukunft Vermögen und Wohnungsgröße innerhalb der ersten zwei Jahre nicht überprüft werden und das Schonvermögen erhöht wird."
+  },
+  {
+    "question": "Wie soll die gesetzliche Rente gestärkt werden?",
+    "answer": "Die SPD will die gesetzliche Rente stärken, ein dauerhaftes Rentenniveau von mindestens 48 Prozent sicherstellen, das Renteneintrittsalter nicht weiter anheben, die Grundrente einführen, eine geschlechtergerechte Rente anstreben und die betriebliche Altersversorgung ausweiten.",
+    "contexts": [],
+    "ground_truths": "Wir wollen die gesetzliche Rente stärken und stehen für eine dauerhaft stabile Rentenleistung und ein dauerhaftes Rentenniveau von mindestens 48 Prozent."
+  },
+  {
+    "question": "Soll das Renteneintrittsalter angehoben werden?",
+    "answer": "Die SPD lehnt eine weitere Anhebung des gesetzlichen Renteneintrittsalters ab und setzt sich für eine geschlechtergerechte Rente ein. Sie möchte die gesetzliche Rente stärken und ein dauerhaftes Rentenniveau von mindestens 48 Prozent sicherstellen.",
+    "contexts": [],
+    "ground_truths": "Wir lehnen eine weitere Anhebung des gesetzlichen Renteneintritts- alters ab, weil sie für viele, die nicht länger arbeiten können, eine Rentenkürzung bedeutet und ungerecht ist."
+  },
+  {
+    "question": "Welche Gruppen sollen in die gesetzliche Rentenversicherung aufgenommen werden?",
+    "answer": "Die SPD setzt sich dafür ein, dass alle Erwerbstätigen in die gesetzliche Rentenversicherung aufgenommen werden, um eine gute und verlässliche Rente zu gewährleisten. Sie streben eine dauerhaft stabile Rentenleistung und ein Rentenniveau von mindestens 48 Prozent an. Die Grundrente wurde erfolgreich eingeführt, um Menschen vor Altersarmut zu schützen.",
+    "contexts": [],
+    "ground_truths": "Solidarität in der Alterssicherung bedeutet für uns zudem, dass auch die Selbstständigen, Beamt*innen, freien Berufe und Mandatsträger*innen der gesetzlichen Rentenversicherung angehören."
+  },
+  {
+    "question": "Wie soll der Eigenanteil für Pflegebedürftige mit kleinen und mittleren Einkommen geregelt werden?",
+    "answer": "Die SPD plant, den Eigenanteil für Pflegebedürftige mit kleinen und mittleren Einkommen zu deckeln, um die Pflege bezahlbar zu halten. Zukünftige Kostensteigerungen sollen über einen Mix aus steigenden Pflegeversicherungsbeiträgen und einem Bundeszuschuss finanziert werden. Die Pflegeinfrastruktur soll bedarfsgerecht ausgebaut werden.",
+    "contexts": [],
+    "ground_truths": "Ein erster Schritt dorthin ist für uns, für Pflegebedürftige mit kleinen und mittleren Einkommen den Eigenanteil zu deckeln, damit Pflege für sie bezahlbar bleibt."
+  },
+  {
+    "question": "Was sind die Ziele der Förderung haushaltsnaher Dienstleistungen?",
+    "answer": "Die Förderung haushaltsnaher Dienstleistungen im Wahlprogramm zielt darauf ab, die Vereinbarkeit von Familie und Beruf zu verbessern, älteren Menschen zu helfen, möglichst lange in der eigenen Wohnung zu leben und Schwarzarbeit zu bekämpfen. Diese Förderung soll auch von Geringverdiener*innen in Anspruch genommen werden können.",
+    "contexts": [],
+    "ground_truths": "Wir werden durch eine besondere Förderung der haushaltsnahen Dienstleistungen die Vereinbarkeit von Familie und Beruf verbessern, älteren Menschen helfen, möglichst lange in der eigenen Wohnung zu leben, Schwarzarbeit bekämpfen und den Personen, die bislang ohne Sozialversicherung in den privaten Haushalten arbeiten, eine Absicherung bei Arbeitsunfällen oder Krankheit geben. Diese Förderung soll so ausgerichtet sein, dass sie auch von Geringverdiener*innen in Anspruch genommen werden kann."
+  },
+  {
+    "question": "Wie viele Sozialwohnungen sollen jährlich neu gebaut werden?",
+    "answer": "Die SPD plant, jährlich 100.000 neue Sozialwohnungen zu bauen und eine neue Wohnungsgemeinnützigkeit einzuführen, um bezahlbaren Wohnraum zu schaffen. Sie werden auch Maßnahmen ergreifen, um Mietwucher zu bekämpfen und die Mietpreisbremse zu stärken.",
+    "contexts": [],
+    "ground_truths": "Nach wie vor ist der Neubau von 100.000 Sozialwohnungen jährlich erforderlich."
+  },
+  {
+    "question": "Wie soll die Mietpreisbremse angepasst werden?",
+    "answer": "Die SPD plant, die Mietpreisbremse zu entfristen, Schlupflöcher zu schließen, den qualifizierten Mietspiegel bundesweit einheitlich zu gestalten und ein zeitlich befristetes Mietenmoratorium einzuführen, um Mieten nur im Rahmen der Inflationsrate zu erhöhen.",
+    "contexts": [],
+    "ground_truths": "Wir werden außerdem die Mietpreisbremse entfristen und Schlupflöcher schließen."
+  },
+  {
+    "question": "Wie sollen Kommunen bei der nachhaltigen Stadtentwicklung unterstützt werden?",
+    "answer": "Die Unterstützung von Kommunen bei nachhaltiger Stadtentwicklung im Wahlprogramm umfasst die Verbesserung der regionalen Wirtschaftsstruktur, die Entlastung von Sozialausgaben, die Stärkung der Investitionskraft der Kommunen und Maßnahmen wie die Übernahme von Altschulden und die Förderung von gemeinwohlorientierten Unternehmen.",
+    "contexts": [],
+    "ground_truths": "Mit der Schaffung von Bodenfonds unter Einbeziehung bundeseigener Grundstücke erhalten Kommunen ein Instrument für die nachhaltige Stadtentwicklung und bezahlbaren Wohnungsbau."
+  },
+  {
+    "question": "Welche Wohnformen sollen gefördert werden?",
+    "answer": "Die SPD plant Maßnahmen zur Schaffung von bezahlbarem Wohnraum, wie die Förderung von Mietkaufmodellen und Genossenschaftsanteilen sowie die Einführung einer neuen Wohnungsgemeinnützigkeit. Zudem sollen Housing-First-Konzepte zur Unterstützung von obdachlosen Menschen flächendeckend umgesetzt werden. Die Partei strebt eine transparente Eigentümerstruktur durch ein zentrales Immobilienregister an, um Spekulation mit Wohnraum einzudämmen.",
+    "contexts": [],
+    "ground_truths": "Wir werden generationenübergreifende, alternative und barrierefreie Wohnformen in Städten und Quartieren fördern."
+  },
+  {
+    "question": "Was sind die zentralen Bereiche der Kindergrundsicherung?",
+    "answer": "Die zentralen Bereiche der Kindergrundsicherung im Wahlprogramm umfassen eine Infrastruktur für Bildung und Teilhabe sowie ein neues existenzsicherndes Kindergeld, das nach Einkommen gestaffelt ist. Das monatliche Basisbetrag des neuen Kindergeldes wird bei etwa 250 Euro liegen und soll den Kinderfreibetrag ersetzen sowie bisherige Leistungen bündeln.",
+    "contexts": [],
+    "ground_truths": "Die Kindergrundsicherung besteht zum einen aus einer Infrastruktur, die gerechte Bildung und Teilhabe für alle Kinder ermöglicht. Zum anderen aus einem neuen existenzsichernden, automatisch ausgezahlten Kindergeld, das nach Einkommen der Familie gestaffelt ist."
+  },
+  {
+    "question": "Wie sollen die Kinderkrankentage verändert werden?",
+    "answer": "Die dritte Säule des Vier-Säulen-Modells im Wahlprogramm beinhaltet die dauerhafte Ausweitung der Kinderkrankentage auf 20 Tage pro Kind, Jahr und Elternteil, um auch anderen kurzzeitigen Betreuungsbedarf abzudecken.",
+    "contexts": [],
+    "ground_truths": "Die dritte Säule ist die dauerhafte Ausweitung der pandemiebedingt erhöhten Kinderkrankentage auf 20 Tage pro Kind, Jahr und Elternteil (als „Elterngeld akut“) - bei mehr als zwei Kindern maximal 45 Tage pro Elternteil und 90 Tage für Alleinerziehende."
+  },
+  {
+    "question": "Wie soll die Familienpflegezeit gestaltet werden?",
+    "answer": "Die Familienpflegezeit im Wahlprogramm sieht vor, dass Angehörige bei Pflegebedarf Unterstützung erhalten, um Pflege und Arbeit zu kombinieren. Es gibt einen Anspruch auf Lohnersatz für 15 Monate bei einer Arbeitszeitreduzierung ab Pflegegrad 2. Unternehmen sollen Männer ermutigen, dieses Modell zu nutzen.",
+    "contexts": [],
+    "ground_truths": "Unser Modell der Familienpflegezeit ist die vierte Säule. Wer Angehörige pflegt, soll dabei unterstützt werden, die Pflege mit Erwerbsarbeit zu kombinieren. Das bedeutet: 15 Monate Anspruch auf Unterstützung (Lohnersatz) bei einer Arbeitszeitreduzierung für jeden nahen Angehörigen ab Pflegegrad 2, auf mehrere Pflegepersonen aufteilbar mit einer Mindestarbeitszeit von 15 bis 20 Stunden."
+  },
+  {
+    "question": "Wie hoch ist der monatliche Basisbetrag des neuen Kindergeldes?",
+    "answer": "Der monatliche Basisbetrag des neuen Kindergeldes im Zukunftsprogramm der SPD wird bei zirka 250 Euro liegen.",
+    "contexts": [],
+    "ground_truths": "Der monatliche Basisbetrag dieses neuen Kindergeldes wird bei zirka 250 Euro liegen."
+  },
+  {
+    "question": "An welchen Ausgaben orientiert sich der Höchstbetrag des neuen Kindergeldes und wie hoch ist dieser mindestens?",
+    "answer": "Der Höchstbetrag des neuen Kindergeldes orientiert sich an den Ausgaben von Familien mit mittleren Einkommen und beträgt mindestens 500 Euro.",
+    "contexts": [],
+    "ground_truths": "Der Höchstbetrag wird sich an den Ausgaben von Familien mit mittleren Einkommen für Bildung und Teilhabe orientieren und mindestens doppelt so hoch sein wie der Basisbetrag."
+  },
+  {
+    "question": "Sollen bei Bundestagswahlen auch Jugendliche ab 16 Jahren wählen dürfen?",
+    "answer": "Das Wahlprogramm sieht vor, dass Jugendliche ab 16 Jahren bei Bundestagswahlen wählen dürfen sollen, um sie stärker in politische Prozesse einzubeziehen.",
+    "contexts": [],
+    "ground_truths": "Wir werden das Wahlalter für junge Menschen auf 16 Jahre senken."
+  },
+  {
+    "question": "Welche Maßnahmen sind geplant, um Kinder und Jugendliche besser zu schützen?",
+    "answer": "Maßnahmen zum Schutz von Kindern und Jugendlichen im Wahlprogramm umfassen die Einrichtung unabhängiger Ombudsstellen, die Schaffung von Präventionsketten und Netzwerken sowie die Förderung von Chancenhelfern an Schulen. Es wird angestrebt, Schutzstandards auch im digitalen Raum zu gewährleisten und eine kindersensible Justiz zu etablieren. Es sollen zudem Maßnahmen ergriffen werden, um Kinder und Jugendliche vor sexueller Belästigung, Gewalt und wirtschaftlicher Ausbeutung zu schützen.",
+    "contexts": [],
+    "ground_truths": "Wir werden daher Strafrecht und Prävention besser verbinden, um Kinder und Jugendliche wirksam zu schützen. Wir brauchen Schutzkonzepte unter anderem mit Kinderschutzbeauftragten für Kitas, Schulen, Jugendhilfe-Einrichtungen und Vereine und werden das durch vom Bund geförderte Pilotprojekte unterstützen."
+  },
+  {
+    "question": "Wie sollen Belastungen für Kinder und Jugendliche in Kinderschutz- oder Familienrechtsverfahren verringert werden?",
+    "answer": "Um die Belastungen für Kinder und Jugendliche in Kinderschutz- oder Familienrechtsverfahren zu verringern, setzt das Wahlprogramm auf eine kindersensible Justiz, die Einrichtung unabhängiger Ombudsstellen und die Schaffung von Präventionsketten für Kinder und Jugendliche.",
+    "contexts": [],
+    "ground_truths": "Um die Belastungen für Kinder und Jugendliche vor allem in Kinderschutz- oder Familienrechtsverfahren so gering wie möglich zu halten, setzen wir uns für eine kindersensible Justiz ein."
+  },
+  {
+    "question": "Wie soll die Förderung von Frauen und Mädchen im naturwissenschaftlichen und technischen Bereich verbessert werden?",
+    "answer": "Das Wahlprogramm setzt sich für die Förderung von Frauen und Mädchen im MINT-Bereich ein, um geschlechtsbezogene Barrieren abzubauen und den Anteil von Frauen in Tech-Unternehmen zu erhöhen. Es wird eine umfassende Strategie zur Gleichstellung in der Wirtschaft verfolgt, einschließlich der Förderung von Existenzgründungen von Frauen und der Schaffung verlässlicher Karrierewege in der Wissenschaft. Es wird auch eine Erhöhung der Ausgaben für Forschung und Entwicklung angestrebt, um die Innovationsförderung zu stärken und die Wettbewerbsfähigkeit Europas zu sichern.",
+    "contexts": [],
+    "ground_truths": "Wir wollen, dass Mädchen und junge Frauen früh erfahren, dass Technik und Unternehmensgründung etwas für sie sein kann und setzen uns weiterhin für die Förderung von Frauen und Mädchen im naturwissenschaftlichen und technischen Bereich (MINT) ein."
+  },
+  {
+    "question": "Wie sollen Algorithmen in Bezug auf Diskriminierung gestaltet werden?",
+    "answer": "Algorithmen müssen transparent und diskriminierungsfrei sein, um unser Leben zu erleichtern. Eine stringente Regulierung und Aufsicht sind notwendig, um dies sicherzustellen. Es ist wichtig, dass die Zielsetzung einer algorithmischen Entscheidung klar definiert und überprüfbar ist.",
+    "contexts": [],
+    "ground_truths": "Wir wollen verantwortungsvolle Künstliche Intelligenzen (KI) und Algorithmen, die vorurteilsfrei programmiert sind und auf diskriminierungsfreien Datenlagen basieren. Dies soll regelmäßig geprüft und zertifiziert werden."
+  },
+  {
+    "question": "Wie soll der Zugang zu Verhütungsmitteln gestaltet werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für einen kostenfreien Zugang zu Verhütungsmitteln ein und fördert die Erforschung von Verhütungsmethoden für Männer. Frauen und Paare sollen selbstbestimmte Entscheidungen treffen können.",
+    "contexts": [],
+    "ground_truths": "Wir werden deshalb für einen kostenfreien Zugang zu Verhütungsmitteln sorgen und gezielt die Erforschung von Verhütungsmethoden für Männer fördern."
+  },
+  {
+    "question": "Was soll in Bezug auf Paragraph 219a geändert werden?",
+    "answer": "Der Paragraph 219a soll abgeschafft werden, um Frauen Zugang zu Informationen und medizinischer Versorgung bei Schwangerschaftsabbrüchen zu ermöglichen. Zudem wird die Ehe für alle durchgesetzt und vielfältige Familienmodelle rechtlich abgesichert. Es wird eine Finanztransaktionssteuer eingeführt, um große Digitalunternehmen angemessen zu besteuern.",
+    "contexts": [],
+    "ground_truths": "Wir erkennen die Verantwortung und das Selbstbestimmungsrecht von Frauen an und wollen auch deshalb den Paragraphen 219a abschaffen."
+  },
+  {
+    "question": "Welche Reformen sind im Bereich des Abstammungsrechts geplant?",
+    "answer": "Leider konnte ich keine spezifischen Informationen zu den geplanten Reformen im Bereich des Abstammungsrechts im Wahlprogramm finden.",
+    "contexts": [""],
+    "ground_truths": "Wir schaffen ein modernes Abstammungsrecht. Wir setzen uns ein für gleiche Rechte von gleichgeschlechtlichen Partner*innen in der Ehe, insbesondere bei Adoptionen."
+  },
+  {
+    "question": "Wie soll Homo-, Bi-, Trans- und Interphobie bekämpft werden?",
+    "answer": "Die SPD setzt sich gegen Homo-, Bi-, Trans- und Interphobie ein und plant einen nationalen Aktionsplan dagegen. Sie strebt die rechtliche Absicherung von LSBTIQ*-Familien und Trans* und Inter*Personen an. Integration ist eine permanente gesellschaftliche und staatliche Aufgabe.",
+    "contexts": [],
+    "ground_truths": "Wir werden einen nationalen Aktionsplan gegen Homo-, Bi-, Trans- und Interphobie und Gewalt gegen LSBTIQ* einführen und uns auf europäischer Ebene für die Ächtung solcher Diskriminierung einsetzen."
+  },
+  {
+    "question": "Wie sollen die Chancen von Menschen mit Behinderungen auf dem Arbeitsmarkt verbessert werden?",
+    "answer": "Das Wahlprogramm sieht vor, die Chancen von Menschen mit Behinderungen auf dem Arbeitsmarkt zu verbessern, indem Schwerbehindertenvertretungen gestärkt und eine einheitliche Ansprechstelle für Arbeitgeber*innen geschaffen wird. Zudem wird ein Bundesprogramm Barrierefreiheit eingeführt und das Recht auf Weiterbildung und beruflichen Neustart in allen Lebensphasen unterstützt.",
+    "contexts": [],
+    "ground_truths": "Menschen mit Behinderungen sollen bessere Chancen auf dem Arbeitsmarkt erhalten. Das werden wir durch die Stärkung der Schwerbehindertenvertretungen und die Weiterentwicklung der Ausgleichsabgabe unterstützen."
+  },
+  {
+    "question": "Soll das Blutspendeverbot für schwule und bisexuelle Männer aufgehoben werden?",
+    "answer": "Die SPD wird darauf hinwirken, dass das Blutspendeverbot für schwule und bisexuelle Männer abgeschafft wird.",
+    "contexts": [],
+    "ground_truths": "Wir werden darauf hinwirken, dass die diskriminierende Richtlinie der Bundesärztekammer zur Blutspende abgeschafft wird."
+  },
+  {
+    "question": "Wie soll die Integrations von Zugewanderten verbessert werden?",
+    "answer": "Die Integration von Zugewanderten soll im Wahlprogramm durch Maßnahmen wie Integrations- und Sprachkurse, Zugang zu Bildung und Familienzusammenführung sowie die Bekämpfung von Diskriminierung und Vorurteilen unterstützt werden. Der öffentliche Dienst soll Chancengleichheit und Aufstiegsmöglichkeiten für alle Personengruppen bieten.",
+    "contexts": [],
+    "ground_truths": "Wir möchten allen Menschen, die neu zu uns kommen, den Anspruch auf Integrations- und Beteiligungsangebote gewährleisten. Für das Miteinander stärken wir die Integrations- und Sprachkurse für alle zugewanderten Menschen in Deutschland, zu denen sie – ungeachtet ihrer Staatsangehörigkeit und ihres Aufenthaltsstatus – von Tag eins an Zugang haben sollen."
+  },
+  {
+    "question": "Welche Änderungen sind beim Familiennachzug geplant?",
+    "answer": "Der Familiennachzug zu subsidiär Schutzberechtigten soll erleichtert werden, um die Integration zu fördern. Arbeitsverbote sollen abgeschafft werden, um allen die Möglichkeit zu geben, für ihren Lebensunterhalt zu sorgen. Die Integration von Familien ist ein wichtiger Bestandteil der gesellschaftlichen Teilhabe.",
+    "contexts": [],
+    "ground_truths": "Die Regelungen für den Familiennachzug zu subsidiär Schutzberechtigten wollen wir daher wieder an die für Flüchtlinge angleichen. Dabei werden wir auch Regelungen für den Geschwisternachzug zu unbegleiteten minderjährigen Flüchtlingen schaffen."
+  },
+  {
+    "question": "Was ist die Haltung zu zwangsweisen Rückführung von Menschen in nicht sichere Herkunftsländer?",
+    "answer": "Die zwangsweise Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht, wird im Wahlprogramm abgelehnt.",
+    "contexts": [],
+    "ground_truths": "Die zwangsweise Rückführung von Menschen in Länder, in denen ihnen Gefahr für Leib und Leben droht, lehnen wir ab."
+  },
+  {
+    "question": "Soll es in Deutschland generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben?",
+    "answer": "Die SPD plant, die generelle Möglichkeit von Mehrstaatigkeit gesetzlich zu verankern und bestehende Hürden bei Einbürgerungen abzuschaffen. Sie wollen auch die Regelaufenthaltsdauer für die Einbürgerung verkürzen.",
+    "contexts": [],
+    "ground_truths": "Unsere Gesellschaft des Respekts braucht ein modernes Staatsangehörigkeitsrecht. Nachdem wir bereits dafür gesorgt haben, dass grundsätzlich alle in Deutschland geborenen Kinder mit der Geburt auch deutsche Staatsbürger*innen sind, werden wir auch die generelle Möglichkeit von Mehrstaatigkeit gesetzlich verankern."
+  },
+  {
+    "question": "Soll die Regelaufenthaltsdauer bei Einbürgerungen verändert werden?",
+    "answer": "Die Regelaufenthaltsdauer bei Einbürgerungen wird im Wahlprogramm nicht spezifisch erwähnt.",
+    "contexts": [],
+    "ground_truths": "Wir wollen bestehende Hürden bei Einbürgerungen abschaffen und hierfür auch die geltende Regelaufenthaltsdauer von bisher acht Jahren verkürzen."
+  },
+  {
+    "question": "Wie sollen Vereine, Projekte und Initiativen gegen die Feinde der offenen Gesellschaft unterstützt werden?",
+    "answer": "Die SPD wird Vereine, Projekte und Initiativen langfristig fördern und besser gegen Feinde der offenen Gesellschaft wappnen. Sie werden das Bundesprogramm \"Demokratie leben!\" weiter ausbauen und Präventionsprojekte fördern. Die Partei setzt sich für politische Bildung und ehrenamtliches Engagement ein.",
+    "contexts": [],
+    "ground_truths": "Mit einem Demokratiefördergesetz werden wir Vereine, Projekte und Initiativen langfristig fördern und sie besser wappnen gegen die Feinde unserer offenen Gesellschaft."
+  },
+  {
+    "question": "Wie soll der Zugang zu politischen Bildungsmöglichkeiten verbessert werden?",
+    "answer": "Die SPD setzt sich für die Schaffung eines Bundesprogramms für Schulsozialarbeit ein, um Chancenhelfer an jeder Schule zu fördern und Bildungsbenachteiligungen zu bekämpfen. Zudem strebt die SPD an, die politische Bildungsmöglichkeiten zu verbessern, um die Demokratie zu stärken.",
+    "contexts": [],
+    "ground_truths": "Wir werden Arbeitnehmer*innen verstärkt in die Lage versetzen, ihren gesetzlichen Bildungsurlaub zu nutzen, um sich einfacher für ihr ehrenamtliches Engagement freistellen zu lassen."
+  },
+  {
+    "question": "Wie soll das Gemeinnützigkeitsrecht weiterentwickelt werden?",
+    "answer": "Das Gemeinnützigkeitsrecht soll im Wahlprogramm weiterentwickelt werden, um ein nicht gewinnorientiertes Segment auf dem Wohnungsmarkt zu fördern, Mietwucher zu bekämpfen und die gerechte Verteilung von Einkommen und Vermögen zu unterstützen. Die SPD setzt sich für ein zeitgemäßes Gemeinnützigkeitsrecht ein, das steuerbegünstigten Körperschaften auch politische Aktivitäten ermöglicht.",
+    "contexts": [],
+    "ground_truths": "Wir werden prüfen, welche weiteren gesellschaftspolitisch bedeutsamen Bereiche in den Katalog gemeinnütziger Zwecke aufgenommen werden können und sicherstellen, dass steuerbegünstigte Körperschaften wie Vereine bei der Verfolgung ihrer satzungsmäßigen Zwecke auch politisch tätig sein können."
+  },
+  {
+    "question": "Wie sollen die Lebens- und Arbeitsbedingungen von Künstler*innen verbessert werden?",
+    "answer": "Die Lebens- und Arbeitsbedingungen von Künstler*innen sollen durch Mindestgagen, Ausstellungshonorare und die Sicherung kultureller Freiräume verbessert werden. Es wird angestrebt, die soziale Absicherung von freischaffenden Künstler*innen zu stärken und die Produktion von Kunst und Kultur zu fördern. Zusätzlich sollen Rahmenbedingungen für die Kultur- und Kreativwirtschaft verbessert werden, um zukunftsfähige Arbeitsplätze zu erhalten.",
+    "contexts": [],
+    "ground_truths": "Zur besseren sozialen Sicherung von freischaffenden Künstler*innen werden wir Mindestgagen und Ausstellungshonorare fest etablieren."
+  },
+  {
+    "question": "Wie soll die Filmförderung durch die Filmförderanstalt verbessert werden?",
+    "answer": "Die Filmförderung durch die Filmförderanstalt (FFA) wird verbessert, um die Produktion von audiovisuellen Inhalten am Standort Deutschland zu fördern, zukunftsfähige Arbeitsplätze zu schaffen, die internationale Ausstrahlung deutscher Filme zu unterstützen und die Entscheidungsgremien effizienter zu gestalten.",
+    "contexts": [],
+    "ground_truths": "Wir verbessern die Filmförderung durch die Filmförderanstalt (FFA), sichern mit der Novelle des Filmfördergesetzes die Einnahmebasis des Filmschaffenden, unterstützen die internationale Ausstrahlung deutscher Filme, bewahren das Filmerbe und gestalten die Entscheidungsgremien effizienter."
+  },
+  {
+    "question": "Sollen digitale Kunstprojekte gefördert werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine Förderung von digitalen Kunstprojekten ein, indem sie die digitale Souveränität der Bürger*innen stärken und die Digitalisierung in verschiedenen Bereichen vorantreiben möchte.",
+    "contexts": [],
+    "ground_truths": "Wir werden die Entwicklung des Digitalen als künstlerischen Raum stärken und digitale Kunstprojekte fördern."
+  },
+  {
+    "question": "Wie sollen Nationalismus, Rassismus, Antisemitismus und Antiziganismus aufgearbeitet werden?",
+    "answer": "Die Partei plant, die Aufarbeitung der NS-Verbrechen und der Shoa zu unterstützen und neue Formen der Gedenkkultur zu fördern. Sie werden die Bundesstiftung Aufarbeitung stärken und die Entwicklung einer postkolonialen Erinnerungskultur vorantreiben. Zudem werden sie gegen Rassismus, Rechtsextremismus, Antisemitismus und Antiziganismus vorgehen.",
+    "contexts": [],
+    "ground_truths": "Wir werden die wissenschaftliche und gesichtsdidaktische Aufbereitung der Zeitzeugenberichte und des Quellenmaterials zur NS-Zeit besser unterstützen. Wir werden kleine Initiativen und Gedenkorte stärker unterstützen und eingedenk des Versterbens von Zeitzeugen die Entwicklung neuer Formen der Gedenkkultur fördern."
+  },
+  {
+    "question": "Wie soll die Entwicklung einer postkolonialen Erinnerungskultur gefördert werden?",
+    "answer": "Die SPD wird die Entwicklung einer postkolonialen Erinnerungskultur fördern, einschließlich eines veränderten Umgangs mit kolonial belastetem Sammlungsgut in Museen. Sie wird auch kleine Initiativen und Gedenkorte unterstützen und neue Formen der Gedenkkultur entwickeln.",
+    "contexts": [],
+    "ground_truths": "Mit Blick auf die von Deutschen verübten Kolonialverbrechen werden wir auch bundespolitisch die Entwicklung einer postkolonialen Erinnerungskultur fördern. Zu ihr gehören ein veränderter Umgang mit kolonial belastetem Sammlungsgut in Museen."
+  },
+  {
+    "question": "Wie sollen die Auskunfts- und Berichterstattungsrechte von Journalist*innen gestärkt werden?",
+    "answer": "Die SPD wird die Auskunfts- und Berichterstattungsrechte von Journalist*innen stärken und Journalismus im Gemeinnützigkeitsrecht verankern, um die Stiftungsfinanzierung zu ermöglichen. Sie werden Initiativen für den Schutz der Pressefreiheit verstärken und die mediale Teilhabe für alle Bürger*innen in Deutschland fördern. Die Partei setzt sich für eine stärkere Vernetzung und Zusammenarbeit zwischen den Akteuren aus den Bereichen Medien, Kultur und Bildung ein.",
+    "contexts": [],
+    "ground_truths": "Wir werden die Auskunfts- und Berichterstattungsrechte von Journalist*innen stärken. Wir werden Journalismus im Gemeinnützigkeitsrecht verankern, so dass auch die Stiftungsfinanzierung möglich ist, ohne dass damit marktwirtschaftliche Strukturen konterkariert werden."
+  },
+  {
+    "question": "Welche Maßnahmen werden zum Schutz der Pressefreiheit international ergriffen?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für die Stärkung der Pressefreiheit ein, indem sie die Auskunfts- und Berichterstattungsrechte von Journalist*innen stärken will, Journalismus im Gemeinnützigkeitsrecht verankern möchte und sich für die Sicherheit digitaler Produkte einsetzt, um die Privatsphäre und den Datenschutz zu gewährleisten.",
+    "contexts": [],
+    "ground_truths": "In bilateralen Gesprächen und zwischenstaatlichen Zusammenschlüssen werden wir daher Initiativen für den Schutz der Pressefreiheit sowie der Arbeit von Journalist*innen und Medienunternehmen verstärken."
+  },
+  {
+    "question": "Wie soll die Medienkompetenz gefördert werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine stärkere Förderung der Medienkompetenz ein, um demokratisches Gespräch zu stärken, öffentlich-rechtliche Angebote zu unterstützen, die Medienkompetenz von Kindern und Jugendlichen zu fördern, Lehr- und Lernprozesse zu individualisieren und die Aus- und Fortbildung von Lehrkräften zu verbessern.",
+    "contexts": [],
+    "ground_truths": "Medienkompetenz ist vor allem eine Demokratiekompetenz. Lernen, Arbeiten, Identitätsbildung, Persönlichkeitsentwicklung und die Kommunikation mit anderen sind in unserem Alltag zunehmend an soziale Medien gebunden. Dafür wollen wir die kreative Energie der Netzcommunity mit der Qualität und Erfahrung der klassischen Medien zusammenbringen."
+  },
+  {
+    "question": "Wie soll Kriminalitätsentwicklungen frühzeitig entgegengewirkt werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für vorbeugende Maßnahmen zur Verhinderung von Kriminalität ein, fordert eine bessere Ausstattung und Bezahlung für Polizei und Rettungsdienste, bekämpft organisierte Kriminalität und setzt sich für eine effektivere Geldwäschebekämpfung ein.",
+    "contexts": [],
+    "ground_truths": "Um gezielter vorbeugen zu können, müssen wir mehr wissen über Kriminalitätsentwicklungen. Dafür werden wir den Periodischen Sicherheitsbericht wieder regelmäßig erarbeiten lassen."
+  },
+  {
+    "question": "Wie soll organisierte Kriminalität bekämpft werden?",
+    "answer": "Die SPD setzt sich im Rahmen ihres Wahlprogramms für die Bekämpfung von organisierter Kriminalität ein, insbesondere durch Strukturermittlungen und Zusammenarbeit zwischen verschiedenen Sicherheitsbehörden. Zudem sollen Maßnahmen zur Deradikalisierung von Straftätern und zum Schutz vor Radikalisierung vorangetrieben werden.",
+    "contexts": [],
+    "ground_truths": "Wir bekämpfen organisierte Kriminalität, insbesondere den Menschenhandel, wie auch Drogenhandel, bandenmäßige Wohnungseinbrüche und Wirtschaftskriminalität. Notwendig sind kontinuierliche und flächenübergreifende Strukturermittlungen der Länderpolizeien, der Bundespolizei und des Zolls zusammen mit BKA und Europol."
+  },
+  {
+    "question": "Wie sollen die Bedrohungen von Cyberattacken und Desinformation besser bekämpft werden?",
+    "answer": "Error: Unable to retrieve specific information on measures against cyber attacks and disinformation in the election program.",
+    "contexts": [""],
+    "ground_truths": "Wir sorgen dafür, dass Bund, Länder und Kommunen besser und schneller Hand in Hand arbeiten können."
+  },
+  {
+    "question": "Wie soll der Besitz kleiner Mengen von Cannabis geregelt werden?",
+    "answer": "Die SPD plant, den Besitz kleiner Mengen von Cannabis strafrechtlich nicht mehr zu verfolgen und eine regulierte Abgabe von Cannabis in Modellprojekten zu erproben.",
+    "contexts": [],
+    "ground_truths": "Zudem werden wir bundeseinheitlich regeln, dass der Besitz kleiner Mengen von Cannabis strafrechtlich nicht mehr verfolgt wird."
+  },
+  {
+    "question": "Wie soll das Tierwohl in der Nutztierhaltung verbessert werden?",
+    "answer": "Leider konnte ich keine spezifischen Informationen zum Tierwohl in der Nutztierhaltung im Wahlprogramm finden.",
+    "contexts": [""],
+    "ground_truths": "In der Nutztierhaltung setzen wir konsequent auf die Verbesserung des Tierwohls bei Einführung einer flächenbezogenen Obergrenze. Den Antibiotikaeinsatz werden wir reduzieren. Wir werden für die Einführung eines verpflichtenden staatlichen Tierwohllabels mit nachvollziehbaren Regeln sorgen und den Transport von lebenden Tieren auf acht Stunden begrenzen."
+  },
+  {
+    "question": "Wie soll eine gesunde und nachhaltige Ernährung gefördert werden?",
+    "answer": "Die Förderung gesunder und nachhaltiger Ernährung im Wahlprogramm beinhaltet Maßnahmen wie kostenlose Kita- und Schulverpflegung, Maßnahmen gegen Lebensmittelverschwendung, faire Arbeitsbedingungen in der Landwirtschaft und Verbesserung des Tierwohls. Es wird auch die Förderung der personalisierten Medizin und der Zugang zu bezahlbaren Medikamenten angestrebt.",
+    "contexts": [],
+    "ground_truths": "Unser Ziel ist es, gesunde und nachhaltige Ernährung für alle zu ermöglichen. Wir wollen in staatlich finanzierten Einrichtungen eine den Standards der Deutschen Gesellschaft für Ernährung entsprechende gesundheitsfördernde Gemeinschaftsverpflegung umsetzen."
+  },
+  {
+    "question": "Soll die traditionelle Familie aus Vater, Mutter und Kindern stärker als andere Lebensgemeinschaften gefördert werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für die Förderung von Familien ein, indem sie ein Vier-Säulen-Modell für mehr Familienzeit einführen möchte. Dies beinhaltet Maßnahmen zur Unterstützung von Eltern bei der Vereinbarkeit von Familie und Beruf, wie Elternschaftszeit, Familienarbeitszeit und eine Kindergrundsicherung.",
+    "contexts": [],
+    "ground_truths": "Die Ehe ist und bleibt dafür attraktiv. Deshalb haben wir die Ehe für alle durchgesetzt."
+  },
+  {
+    "question": "Wie soll die Lebensmittelsicherheit verbessert werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für faire Arbeitsbedingungen in der Landwirtschaft ein, will die Lebensmittelversorgung durch Wanderarbeiter*innen sichern, das Tierwohl in der Nutztierhaltung verbessern, den Antibiotikaeinsatz reduzieren, ein staatliches Tierwohllabel einführen und den Transport lebender Tiere auf acht Stunden begrenzen.",
+    "contexts": [],
+    "ground_truths": "Wir werden die Lebensmittelsicherheit durch mehr Kontrollen verbessern und es den Verbraucher*innen durch die Einführung eines Hygienebarometers ermöglichen, sich über die Kontrollergebnisse zu informieren."
+  },
+  {
+    "question": "Was ist die Position zu gentechnisch veränderten Pflanzen?",
+    "answer": "Es gibt keine direkte Erwähnung von gentechnisch veränderten Pflanzen im Wahlprogramm.",
+    "contexts": [],
+    "ground_truths": "Wir bleiben beim Nein zu gentechnisch veränderten Pflanzen."
+  },
+  {
+    "question": "Wie sollen Staaten und Steuerzahler vor Bankpleiten geschützt werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine ordentliche Regulierung und Überwachung des Finanzmarktes ein, um den Verbrauchern kostengünstige Finanzdienstleistungen anzubieten und Investitionen in nachhaltige Produkte zu fördern. Sie stärken die Schuldnerberatung und setzen sich für eine unabhängige Beratung von Kleinanlegern ein. Die BaFin erhält mehr Kompetenzen bei der Geldwäscheaufsicht, um sicherzustellen, dass schmutziges Geld in Deutschland keine Heimat findet.",
+    "contexts": [],
+    "ground_truths": "Wir werden Staaten und Steuerzahler zukünftig wirksam vor Bankpleiten schützen. Zusammen mit der Kapitalmarktunion soll durch die Vollendung der Bankenunion ein europäischer Kapitalmarkt geschaffen werden, der die wettbewerbsfähige Finanzierung europäischer Unternehmen sicherstellt."
+  },
+  {
+    "question": "Wie soll die Finanzierung der EU gerechter und eigenständiger gestaltet werden?",
+    "answer": "Die Finanzierung der EU soll gerechter und eigenständiger gestaltet werden, unter anderem durch die Besteuerung digitaler Großkonzerne und neue Einnahmen aus dem Emissionshandel. Es wird angestrebt, eine gemeinsame Investitionspolitik zu verfolgen und die EU fiskalpolitisch handlungsfähig zu machen. Kleine und mittlere Unternehmen sollen einen niederschwelligen Zugang zu Fördermitteln erhalten.",
+    "contexts": [],
+    "ground_truths": "Wir werden für diesen bedeutenden Integrationsschritt die Besteuerung digitaler Großkonzerne, eine CO2-Grenzabgabe sowie neue Einnahmen aus dem Emissionshandel heranziehen."
+  },
+  {
+    "question": "Wie soll die EU ihre Unabhängigkeit in Zukunftssektoren sichern?",
+    "answer": "Die SPD setzt sich dafür ein, dass die EU in Zukunftssektoren unabhängiger wird und eine Vorreiterrolle im Klimaschutz einnimmt. Investitionen in nachhaltige Zukunftstechnologien und erneuerbare Energien sind essentiell für die Entwicklung Europas. Die Partei strebt eine gerechtere Finanzierung der EU durch neue europäische Eigenmittel an.",
+    "contexts": [],
+    "ground_truths": "Als weltweiter Technologieführer muss die EU auch in Zukunftssektoren unabhängiger von Dritten sein. Wir werden die Entwicklung gemeinsamer Märkte und Infrastrukturen vorantreiben, strategisch wichtige Zukunftstechnologien entwickeln und Schlüsselindustrien schützen."
+  },
+  {
+    "question": "Was ist das Ziel Europas bezüglich Nachhaltigkeit und Treibhausgasneutralität?",
+    "answer": "Die EU hat das Ziel, bis spätestens 2050 treibhausgasneutral zu sein und eine Vorreiterrolle im Klimaschutz einzunehmen. Deutschland plant, bis spätestens 2045 klimaneutral zu sein und den Ausstieg aus fossilen Energieträgern voranzutreiben. Investitionen in erneuerbare Energien, Wasserstofftechnologien und Energieeffizienz sind entscheidend für die Erreichung dieser Ziele.",
+    "contexts": [],
+    "ground_truths": "Wir werden Europa bis spätestens 2050 zum ersten nachhaltigen und treibhausgasneutralen Kontinent machen und eine Vorreiterrolle bei der Bekämpfung des Klimawandels einnehmen."
+  },
+  {
+    "question": "Welche Maßnahmen sind für eine souveräne Europäische Union im Bereich Gesundheit geplant?",
+    "answer": "Die Partei plant Maßnahmen wie die Einführung einer souveränen Europäischen Gesundheitsunion, Mindeststandards in der Gesundheitsversorgung zu garantieren, eine Bürgerversicherung einzuführen, Innovationen in der Gesundheitswirtschaft zu fördern und ein System zur sicheren Produktion und Verteilung von Arzneimitteln zu schaffen.",
+    "contexts": [],
+    "ground_truths": "Wir werden eine souveräne Europäische Gesundheitsunion mit einer starken und widerstandsfähigen Gesundheitswirtschaft in Europa schaffen, indem wir Mindeststandards in der Gesundheitsversorgung garantieren, einen starken Katastrophenschutzmechanismus etablieren und die gemeinsame Forschung und Beschaffung wichtiger medizinischer Güter fördern."
+  },
+  {
+    "question": "Soll es europäische Mindestlöhne geben?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für europäische Mindeststandards bei nationalen Grundsicherungssystemen ein und unterstützt die Umsetzung der Europäischen Kindergarantie. Sie befürwortet einen Rechtsrahmen für europäische Mindestlöhne.",
+    "contexts": [],
+    "ground_truths": "Unser Ziel bleiben europaweit Löhne, die zum Leben reichen, daher begrüßen wir den Vorschlag für einen Rechtsrahmen für europäische Mindestlöhne."
+  },
+  {
+    "question": "Wie soll Kinderarmut in Europa bekämpft werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für die Bekämpfung von Kinderarmut in Europa ein, indem sie die Europäische Kindergarantie umsetzen will und ein neues Kindergeld einführen möchte. Zudem sollen junge Menschen in Ausbildung finanziell abgesichert werden.",
+    "contexts": [],
+    "ground_truths": "Wichtig ist uns insbesondere die Bekämpfung von Kinderarmut in Europa und daher die Umsetzung der Europäischen Kindergarantie."
+  },
+  {
+    "question": "Wie sollen die Rechte der Arbeitnehmer*innen in Europa weiter ausgebaut werden?",
+    "answer": "Die Rechte der Arbeitnehmer*innen in Europa sollen durch die Einführung eines Verbandsklagerechts der Gewerkschaften und eines Beschäftigtendatenschutzgesetzes gestärkt werden. Es wird ein Rechtsanspruch auf mobile Arbeit eingeführt, mit klaren Regelungen zur Arbeitszeit, Nichterreichbarkeit und Unfallversicherungsschutz. Die Stärkung europäischer Betriebsräte und Tarifverhandlungen sowie die Abschaffung von sachgrundlosen Befristungen sind weitere Ziele zur Verbesserung der Arbeitsrechte.",
+    "contexts": [],
+    "ground_truths": "Wir werden die Rechte von Arbeitnehmer*innen weiter ausbauen, insbesondere durch die Stärkung europäischer Betriebsräte, durch Mitspracherechte in Organisation und Entscheidungen großer Unternehmen sowie das Recht auf Kollektivmaßnahmen und Tarifverhandlungen."
+  },
+  {
+    "question": "Wie soll die zivilgesellschaftliche Zusammenarbeit in Europa gefördert werden?",
+    "answer": "Die zivilgesellschaftliche Zusammenarbeit in Europa wird durch Investitionen in die Wirtschafts- und Innovationskraft gestärkt, um soziale Gerechtigkeit, Wohlstand und Menschenrechte zu fördern. Es wird eine humanitäre und solidarische Flüchtlingspolitik angestrebt, um nationalistischen Hass und populistische Hetze zu verhindern. Die EU soll eine solidarische Asylpolitik verfolgen und die Genfer Flüchtlingskonvention verteidigen.",
+    "contexts": [],
+    "ground_truths": "Mit einem Sonderfonds für Demokratie und Rechtsstaatlichkeit werden wir zivilgesellschaftliche Zusammenarbeit gezielt fördern."
+  },
+  {
+    "question": "Wie sollen strafbare Online-Hassreden bekämpft werden?",
+    "answer": "Die SPD setzt sich im Rahmen ihres Zukunftsprogramms für die Bekämpfung von strafbaren Online-Hassreden ein, indem sie sich für europäische Regelungen und Frühwarnsysteme einsetzt. Zudem fördert sie ziviles Engagement gegen Hass und Hetze im Netz.",
+    "contexts": [],
+    "ground_truths": "Wir setzen uns für europäische Regelungen ein, um strafbare Online-Hassreden effektiv zu bekämpfen und werden europäische Frühwarnsysteme gegen Desinformationskampagnen ausbauen."
+  },
+  {
+    "question": "Wie ist die Position zur Genfer Flüchtlingskonvention und Seenotrettung?",
+    "answer": "Die Genfer Flüchtlingskonvention wird verteidigt und Pushbacks sind eine Verletzung des Völkerrechts. Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht.",
+    "contexts": [],
+    "ground_truths": "Wir werden die Genfer Flüchtlingskonvention verteidigen. Pushbacks sind eine eklatante Verletzung des Völkerrechts. Seenotrettung ist eine Verpflichtung aus dem internationalen Seerecht und darf nicht kriminalisiert werden, sondern sollte auch staatlich durch die EU gewährleistet werden."
+  },
+  {
+    "question": "Wie soll Europas Verantwortung in der Entwicklungszusammenarbeit gestärkt werden?",
+    "answer": "Die SPD setzt sich für eine stärkere Rolle Europas in der Entwicklungszusammenarbeit ein, indem sie die EU-Mittel erhöht und Mehrheitsentscheidungen in der Außenpolitik einführt. Sie strebt eine gemeinsame Ausrichtung der globalen Entwicklungszusammenarbeit in Europa an.",
+    "contexts": [],
+    "ground_truths": "Europas Verantwortung in der Entwicklungszusammenarbeit und humanitären Hilfe werden wir durch eine Erhöhung der EU-Mittel stärken."
+  },
+  {
+    "question": "Was ist das Ziel in Bezug auf die europäische Verteidigungspolitik?",
+    "answer": "Die EU strebt an, sicherheits- und verteidigungspolitisch eigenständiger zu werden und die europäische Zusammenarbeit auszubauen, um eine europäische Armee als Teil der Friedensmacht Europa zu schaffen. Die NATO bleibt ein wichtiger Pfeiler der transatlantischen Partnerschaft, während die EU ihre Handlungsfähigkeit in der Verteidigung stärken will. Es wird angestrebt, europäische Rüstungskooperationen zu bündeln und neue Rüstungskontroll- und Abrüstungsinitiativen zu entwickeln.",
+    "contexts": [],
+    "ground_truths": "Unser Ziel bleibt eine europäische Armee als Teil der Friedensmacht Europa."
+  },
+  {
+    "question": "Wie sollen die Beziehungen zu Russland gestaltet werden?",
+    "answer": "Die SPD verfolgt das Ziel einer neuen europäischen Ostpolitik, die auf Dialog und Zusammenarbeit mit Russland setzt. Die Beendigung der Sanktionen hängt maßgeblich von der Umsetzung der Minsker Vereinbarungen ab. Es wird betont, dass Frieden in Europa nur mit Russland möglich ist.",
+    "contexts": [],
+    "ground_truths": "Wir setzen, bei aller erforderlichen Kritik, auch bei Russland auf die Bereitschaft zum Dialog und zur Zusammenarbeit. Frieden in Europa kann es nicht gegen, sondern nur mit Russland geben."
+  },
+  {
+    "question": "Wie positioniert sich die Partei zu den Menschenrechtsverletzungen in China?",
+    "answer": "Die Partei positioniert sich im Wahlprogramm klar gegen die Menschenrechtsverletzungen in China, insbesondere gegenüber uigurischen Muslimen, und zeigt große Besorgnis über den wachsenden Druck auf Taiwan. Sie strebt eine konstruktive und kritische Dialogführung mit China an, um Kooperation und Wettbewerb zu fördern.",
+    "contexts": [],
+    "ground_truths": "Die gravierenden Menschenrechtsverletzungen gegenüber Minderheiten, insbesondere uigurischen Muslimen, verurteilen wir."
+  },
+  {
+    "question": "Wie wird Israels Sicherheit und Existenzrecht betrachtet?",
+    "answer": "Israels Sicherheit und Existenzrecht sind Teil der Staatsräson Deutschlands, und neue Initiativen zur Wiederbelebung des Nahost-Friedensprozesses werden unterstützt. Das Ziel ist die friedliche Koexistenz zweier souveräner Staaten im Rahmen einer Verhandlungslösung. Einseitige Schritte von allen Seiten erschweren die Friedensbemühungen und müssen unterbleiben.",
+    "contexts": [],
+    "ground_truths": "Israels Sicherheit und Existenzrecht ist Teil der Staatsräson Deutschlands."
+  },
+  {
+    "question": "Wie soll die Zusammenarbeit mit dem Vereinigten Königreich nach dem Brexit gestaltet werden?",
+    "answer": "Auch nach dem Brexit bleibt das Vereinigte Königreich ein enger Freund der EU, und gemeinsame Abkommen können das Fundament für eine umfassende Partnerschaft sein. Die Zusammenarbeit in bisher nicht geregelten Bereichen soll weiterentwickelt werden, ohne einen Wettlauf nach unten bei Umweltstandards oder Arbeitnehmerrechten zuzulassen.",
+    "contexts": [],
+    "ground_truths": "Die gemeinsamen Abkommen können das Fundament für eine umfassende Partnerschaft zwischen der EU und Großbritannien sein. Auf der Basis des fairen Umgangs miteinander werden wir die Zusammenarbeit in Bereichen weiterentwickeln, die bisher nicht geregelt sind."
+  },
+  {
+    "question": "Was sind die Ziele im Rahmen des Europarats?",
+    "answer": "Die Ziele im Rahmen des Europarats umfassen die Stärkung des Europäischen Asylsystems, die Verteidigung der Genfer Flüchtlingskonvention und die Bekämpfung von Pushbacks. Es wird auch eine EU-weite Ratifizierung der Istanbul-Konvention gegen Gewalt an Frauen angestrebt.",
+    "contexts": [],
+    "ground_truths": "Die Partei wird die Grundwerte der Demokratie, Menschenrechte und Rechtsstaatlichkeit schützen und den Europäischen Gerichtshof für Menschenrechte stärken. Gerichtsurteile müssen von allen Mitgliedstaaten konsequent umgesetzt werden. Zudem befürworten sie den Beitritt der EU zur Europäischen Menschenrechtskonvention."
+  },
+  {
+    "question": "Wie soll der Kampf gegen den Klimawandel gestaltet werden?",
+    "answer": "Die Partei plant, Deutschland bis spätestens 2045 komplett klimaneutral zu machen und plant, das Minderungsziel für 2030 auf 65 % anzuheben. Maßnahmen umfassen den Ausbau erneuerbarer Energien und den Schutz von Wäldern und Mooren.",
+    "contexts": [],
+    "ground_truths": "Die Partei will die globale Erderwärmung auf weit unter zwei Grad halten und möglichst auf 1,5 Grad Celsius begrenzen, die eigenen Klimaschutzverpflichtungen gemäß des Pariser Klimaabkommens einlösen und weiter steigern sowie die Länder des Globalen Südens bei der Anpassung an den Klimawandel unterstützen."
+  },
+  {
+    "question": "Wie soll zur Bekämpfung der Corona-Pandemie beitragen werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für die finanzielle und substanzielle Förderung der globalen Corona-Impfkampagne der WHO ein, um die Pandemie durch internationale Solidarität zu überwinden. Sie strebt auch die Stärkung der Weltgesundheitsorganisation WHO durch einen Reformprozess an.",
+    "contexts": [],
+    "ground_truths": "Die Partei setzt sich für die finanzielle und substanzielle Förderung der globalen Corona-Impfkampagne der Weltgesundheitsorganisation (COVAX) ein, den Aus- und Aufbau öffentlicher Gesundheitssysteme, die Verbesserung des Zugangs zu Arzneimitteln und Impfstoffen sowie mehr Transparenz und gesundheitliche Bildung."
+  },
+  {
+    "question": "Wie sollen Fluchtursachen bekämpft werden?",
+    "answer": "Die Partei setzt sich für die Bekämpfung von Fluchtursachen ein, indem sie ein funktionsfähiges Europäisches Asylsystem mit solidarischer Verteilung vorantreibt und legale Migrationswege schafft. Sie verteidigt die Genfer Flüchtlingskonvention und lehnt Pushbacks ab.",
+    "contexts": [],
+    "ground_truths": "Die Partei will Fluchtursachen bekämpfen, nicht Geflüchtete. Zusammen mit Partnerländern wird sie sich dafür einsetzen, dass der Globale Pakt für Migration umfassend umgesetzt wird."
+  },
+  {
+    "question": "Welche Maßnahmen sollen bei der Bewältigung der Schuldenkrise helfen?",
+    "answer": "Maßnahmen zur Bewältigung der Schuldenkrise umfassen die Unterstützung eines globalen Staateninsolvenzverfahrens, Schulden-erlasse für gefährdete Ländergruppen und die Schaffung eines Mechanismus zur Überprüfung von Programmen auf friedenspolitische Ziele.",
+    "contexts": [],
+    "ground_truths": "Die Partei unterstützt eine Initiative für ein globales Staateninsolvenzverfahren, das staatliche und vor allem private Gläubiger miteinbezieht und Schuldenerlasse für besonders gefährdete Ländergruppen formuliert und umsetzt."
+  },
+  {
+    "question": "Wie soll die Welthandelsorganisation gestärkt werden?",
+    "answer": "Das Wahlprogramm setzt sich für eine Stärkung der Welthandelsorganisation ein, um ein stabiles und faires Handelssystem zu etablieren. Es wird angestrebt, das Regelwerk zu erweitern, Nachhaltigkeitsziele einzubeziehen und die Durchsetzungsmöglichkeiten zu verbessern. Zudem wird die finanzielle und substanzielle Förderung der globalen Corona-Impfkampagne der WHO unterstützt.",
+    "contexts": [],
+    "ground_truths": "Die Partei möchte das Regelwerk der WTO erweitern, die Nachhaltigkeitsziele der Vereinten Nationen einbeziehen und die Durchsetzungsmöglichkeiten verbessern. Alle Instanzen des WTO-Streitschlichtungsmechanismus sollen wieder beschlussfähig sein."
+  },
+  {
+    "question": "Was ist die Position zum Einsatz bewaffneter Drohnen?",
+    "answer": "Die Position der SPD zum Einsatz bewaffneter Drohnen beinhaltet die Forderung nach einer umfassenden politischen und gesellschaftlichen Debatte sowie die Einbeziehung unbemannter bewaffneter Drohnen in ein internationales Regelwerk zur Regulierung des Einsatzes. Die Partei setzt sich zudem für Abrüstungsschritte ein und unterstützt die Entfernung und Vernichtung von Atomwaffen.",
+    "contexts": [],
+    "ground_truths": "Die Partei setzt sich für eine internationale Erfassung und Einbeziehung bewaffneter Drohnen in ein internationales Regelwerk ein. Die Entscheidung über die Bewaffnung deutscher Drohnen soll erst nach umfassender politischer und gesellschaftlicher Debatte getroffen werden."
+  },
+  {
+    "question": "Was ist das Ziel in Bezug auf Atomwaffen?",
+    "answer": "Das Ziel in Bezug auf Atomwaffen im Wahlprogramm ist die vollständige Abrüstung im substrategischen Bereich, um die in Europa und Deutschland stationierten Atomwaffen abzuziehen und zu vernichten. Es wird auch angestrebt, Rüstungskontrolle in den Bereichen Biotechnologie, Cyber und Künstliche Intelligenz zu etablieren. Die Ächtung autonomer tödlicher Waffensysteme bleibt ein Ziel.",
+    "contexts": [],
+    "ground_truths": "Eine Welt ohne Atomwaffen bleibt das Ziel der Partei. Sie unterstützt Abrüstungsschritte, die vollständige Umsetzung des Nuklearen Nichtverbreitungsvertrags (NVV) und die Teilnahme Deutschlands als Beobachter bei der Vertragsstaatenkonferenz des Atomwaffenverbotsvertrags."
+  },
+  {
+    "question": "Welche Maßnahmen werden zur Förderung der Abrüstung unterstützt?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine restriktive Rüstungsexportpolitik ein und strebt eine Abrüstung im substrategischen Bereich an. Sie möchte die Ausfuhr deutscher Rüstungsgüter in Staaten außerhalb von EU-, NATO- und gleichgestellten Ländern einschränken und setzt sich für die Vernichtung der in Europa und Deutschland stationierten Atomwaffen ein.",
+    "contexts": [],
+    "ground_truths": "Die Partei unterstützt die Verhandlungen zwischen den USA und Russland zur verifizierbaren, vollständigen Abrüstung im substrategischen Bereich, die Ächtung autonomer tödlicher Waffensysteme und die Einbeziehung Chinas in Abrüstungsbemühungen. Sie fordert Abrüstungskontrolle in den Bereichen Biotechnologie, Cyber und Künstliche Intelligenz."
+  },
+  {
+    "question": "Wie sollen die europäischen Rüstungsexportvereinbarungen verändert werden?",
+    "answer": "Die SPD setzt sich im Wahlprogramm für eine Verschärfung der EU-Rüstungsexportvereinbarungen ein, fordert eine restriktive Rüstungsexportpolitik, strebt eine nuklearwaffenfreie Welt an und möchte Rüstungskontrolle in Bereichen wie Biotechnologie, Cyber und Künstliche Intelligenz etablieren.",
+    "contexts": [],
+    "ground_truths": "Die Partei plant, mit europäischen Partnern eine Verschärfung der EU-Rüstungsexportvereinbarungen abzustimmen. Für Staaten außerhalb der EU und NATO ist eine Ratifizierung des Vertrags über Waffenhandel (ATT) und dessen konsequente Umsetzung zwingende Voraussetzung für jede Form der Rüstungskooperation."
+  },
+  {
+    "question": "Wie sollen die Vereinten Nationen reformiert werden?",
+    "answer": "Die Reform der Vereinten Nationen ist dringend notwendig, um ihren Auftrag der Friedenssicherung, Förderung nachhaltiger Entwicklung und Wahrung der Menschenrechte zu erfüllen. Deutschland setzt sich für einen ständigen europäischen Sitz und eine angemessene Repräsentanz des Globalen Südens im Sicherheitsrat der Vereinten Nationen ein. Es wird auch die Instrumente der Handels- und Investitionspolitik modernisieren, um ein stabiles, faires und demokratisches Handelssystem zu etablieren.",
+    "contexts": [],
+    "ground_truths": "Sie setzt sich für dringende Reformen der UN ein, darunter einen ständigen europäischen Sitz und eine angemessene Repräsentanz des Globalen Südens im Sicherheitsrat der Vereinten Nationen."
+  }
+]
