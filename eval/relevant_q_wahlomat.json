@@ -1,0 +1,44 @@
+[
+  {
+    "thesis": "Tempolimit auf Autobahnen",
+    "question": "Soll auf allen Autobahnen ein generelles Tempolimit gelten?",
+    "answer": "zugestimmt",
+    "explanation": "Ein Tempolimit von 130 km/h auf Bundesautobahnen schützt die Umwelt und senkt die Unfallzahlen deutlich. Außerdem erhöht es die Reichweite von Elektrofahrzeugen deutlich - und diese werden in Zukunft eine Großteil der Fahrzeuge ausmachen."
+  },
+  {
+    "thesis": "Wählen ab 16",
+    "question": "Sollen bei Bundestagswahlen auch Jugendliche ab 16 Jahren wählen dürfen?",
+    "answer": "zugestimmt",
+    "explanation": "Junge Menschen sind Profis in Fragen ihrer Zukunft! Unser Anspruch ist daher eine Politik, die nicht über ihre Köpfe hinweg diskutiert und entscheidet. Wir wollen echte Beteiligung ermöglichen. Jugendliche zeigen an vielen Stellen, dass sie politisch denken und für ihre Interessen zu handeln bereit sind. Daher ist es richtig, auch das Wahlalter auf 16 Jahre abzusenken."
+  },
+  {
+    "thesis": "Traditionelle Familie",
+    "question": "Soll die traditionelle Familie aus Vater, Mutter und Kindern stärker als andere Lebensgemeinschaften gefördert werden?",
+    "answer": "nicht zugestimmt",
+    "explanation": "Familien leben in großer Vielfalt miteinander. Wir wollen das Leben aller Familien leichter machen. Entscheidend ist dabei, dass sie dauerhaft Verantwortung füreinander übernehmen - ob mit oder ohne Trauschein, ob mit gemischt- oder gleichgeschlechtlichen Eltern. Bestehende Diskriminierungen gegenüber LSBTIQ-Familien und -Kindern werden wir konsequent weiter abbauen."
+  },
+  {
+    "thesis": "Elternunabhängiges BAföG",
+    "question": "Sollen Studentinnen und Studenten BAföG unabhängig vom Einkommen ihrer Eltern erhalten?",
+    "answer": "nicht zugestimmt",
+    "explanation": "Im Rahmen unserer Kindergrundsicherung werden wir ein neues Kindergeld schaffen: nach Einkommen der Familie gestaffelt, an Auszubildende als elternunabhängige Basisabsicherung direkt ausgezahlt. Die zusätzliche Förderung durch das BAföG wollen wir so reformieren, dass sie Studierende mit geringen Ressourcen wieder verlässlich unterstützt: Durch eine Ausweitung der Förderansprüche und die schrittweise Rückkehr zum Vollzuschuss, damit niemand aus Angst vor Verschuldung auf ein Studium verzichtet."
+  },
+  {
+    "thesis": "Doppelte Staatsbürgerschaft",
+    "question": "Soll es in Deutschland generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben?",
+    "answer": "zugestimmt",
+    "explanation": "Unsere Gesellschaft des Respekts braucht ein modernes Staatsangehörigkeitsrecht. Nachdem die SPD bereits dafür gesorgt hat, dass grundsätzlich alle in Deutschland geborenen Kinder mit der Geburt auch deutsche Staatsbürger*innen sind, werden wir zudem die generelle Möglichkeit von Mehrstaatigkeit gesetzlich verankern. Wir wollen bestehende Hürden bei Einbürgerungen abschaffen und hierfür auch die geltende Regelaufenthaltsdauer von bisher acht Jahren verkürzen."
+  },
+  {
+    "thesis": "Steuer auf hohe Vermögen",
+    "question": "Soll auf hohe Vermögen wieder eine Steuer erhoben werden?",
+    "answer": "zugestimmt",
+    "explanation": "Wir werden einen maßvollen, einheitlichen Steuersatz von einem Prozent für sehr hohe Vermögen einführen. Gleichzeitig wird es hohe persönliche Freibeträge geben, so dass sich die Steuerbelastung auf besonders vermögende Teile der Bevölkerung konzentriert. Wir stellen sicher, dass mit der Vermögensteuer keine Arbeitsplätze gefährdet werden. Die Grundlage von Betrieben wird bei der Vermögensteuer verschont."
+  },
+  {
+    "thesis": "Homeoffice",
+    "question": "Sollen Unternehmen selbst entscheiden, ob sie ihren Beschäftigten das Arbeiten im Homeoffice erlauben?",
+    "answer": "nicht zugestimmt",
+    "explanation": "Unternehmen sollen selbst entscheiden, ob sie ihren Beschäftigten das Arbeiten im Homeoffice erlauben"
+  }
+]
